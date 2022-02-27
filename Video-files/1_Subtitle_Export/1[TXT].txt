@@ -1,0 +1,4812 @@
+﻿hello
+hello
+all
+all
+you lovely people
+you lovely people
+and good morning afternoon or evening
+and good morning afternoon or evening
+depending upon where you're joining us from
+depending upon where you're joining us from
+my name is david
+my name is david
+amanda
+amanda
+and i'll be your host with mister kin russell as we
+and i'll be your host with mister kin russell as we
+kick off the eleventh year of our web g l and now web
+kick off the eleventh year of our web g l and now web
+g l and web g t u meet up event series on the agenda today
+g l and web g t u meet up event series on the agenda today
+we will get the web
+we will get the web
+g l and web
+g l and web
+g p web date followed by a great line up of seller speakers
+g p web date followed by a great line up of seller speakers
+with questions and answers at the end
+with questions and answers at the end
+please make sure to put all your questions in the q
+please make sure to put all your questions in the q
+and a section below
+and a section below
+not the chat window
+not the chat window
+so presenters can answer them before or during the
+so presenters can answer them before or during the
+q and a session
+q and a session
+this is being recorded and all will be available on
+this is being recorded and all will be available on
+the kronos website also send us an email at public
+the kronos website also send us an email at public
+underscore web g l at prinos dot com
+underscore web g l at prinos dot com
+if you would like to present and share your web g l or
+if you would like to present and share your web g l or
+web g p
+web g p
+work at a future meet up
+work at a future meet up
+so without further ado
+so without further ado
+let's get started with mister ken russell
+let's get started with mister ken russell
+our web g o working through chair for an update can
+our web g o working through chair for an update can
+the florida years
+the florida years
+thank you
+thank you
+damon
+damon
+hello
+hello
+everybody
+everybody
+let me get set up to share it
+let me get set up to share it
+okay
+okay
+how we look at can you see my slides
+how we look at can you see my slides
+you can you're good to go
+you can you're good to go
+super
+super
+okay
+okay
+good morning afternoon or evening
+good morning afternoon or evening
+everybody
+everybody
+great to virtually see it all
+great to virtually see it all
+uh love to give you some updates on the web
+uh love to give you some updates on the web
+g l web
+g l web
+g p a p i s uh with my colleague kai minima
+g p a p i s uh with my colleague kai minima
+who will give the one g p update
+who will give the one g p update
+so let's divert it
+so let's divert it
+by the way
+by the way
+all these slides will be available
+all these slides will be available
+so don't worry about uh taking ex extreme amounts
+so don't worry about uh taking ex extreme amounts
+of notes
+of notes
+and by the way
+and by the way
+uh kai put a nice short link to these slides in the upper
+uh kai put a nice short link to these slides in the upper
+right corner
+right corner
+so first
+so first
+let me encourage you to please join the webgl and web
+let me encourage you to please join the webgl and web
+g p communities
+g p communities
+both a p i s are supported by vibrant online communities
+both a p i s are supported by vibrant online communities
+and if you're working with these
+and if you're working with these
+a p
+a p
+i would very much like to hear from you
+i would very much like to hear from you
+so on the web g l side
+so on the web g l side
+please consider joining the webgl deadliest
+please consider joining the webgl deadliest
+their announcements of products
+their announcements of products
+demos
+demos
+new tools
+new tools
+job hostings questions
+job hostings questions
+discussions
+discussions
+everyone is welcome here
+everyone is welcome here
+um uh damon already mentioned the public web geo mailing
+um uh damon already mentioned the public web geo mailing
+list
+list
+the web geo matrix chat room also offers a great way
+the web geo matrix chat room also offers a great way
+to talk directly with a browser implementers and
+to talk directly with a browser implementers and
+other developers uh
+other developers uh
+and you can find a lot of cool stuff release every day
+and you can find a lot of cool stuff release every day
+by searching for hashtag web g l on twitter
+by searching for hashtag web g l on twitter
+on the web gpu side
+on the web gpu side
+if you have feedback on the api and development
+if you have feedback on the api and development
+please see the main web gpu repository for options
+please see the main web gpu repository for options
+on how to communicate your feedback to the community
+on how to communicate your feedback to the community
+group
+group
+the web g p matrix chat room also offers a way to talk
+the web g p matrix chat room also offers a way to talk
+with browser implementers and other developers
+with browser implementers and other developers
+and there's an increasing amount of cool stuff showing
+and there's an increasing amount of cool stuff showing
+up on hashtag by gpu on twitter
+up on hashtag by gpu on twitter
+and we all look forward to hearing from you
+and we all look forward to hearing from you
+so before we jump into the webgl and web g p specific
+so before we jump into the webgl and web g p specific
+updates
+updates
+let me point out the release of k t x two
+let me point out the release of k t x two
+which was actually ratified back in april twenty
+which was actually ratified back in april twenty
+twenty one
+twenty one
+and we're trying to advertise it more to the corner's
+and we're trying to advertise it more to the corner's
+community
+community
+so this is a standardized image container format
+so this is a standardized image container format
+for gpu textures
+for gpu textures
+it supports all pixel formats and texture types
+it supports all pixel formats and texture types
+a raise
+a raise
+a cube maps and so forth
+a cube maps and so forth
+and has built in support for the basis universal codex
+and has built in support for the basis universal codex
+these are super compressed textures uh that are based
+these are super compressed textures uh that are based
+on the gpu's native support for compressed textures
+on the gpu's native support for compressed textures
+um
+um
+but it's basically gives you the file size of jpegs
+but it's basically gives you the file size of jpegs
+with the the arab advantages of compressed textures
+with the the arab advantages of compressed textures
+there's a new extension to gltf called k h r texture
+there's a new extension to gltf called k h r texture
+basis you
+basis you
+and that's what is adding this
+and that's what is adding this
+ah
+ah
+the support for g p press textures
+the support for g p press textures
+multiple engines are already supporting this in
+multiple engines are already supporting this in
+their own gltf loaders in three js babylon j s model
+their own gltf loaders in three js babylon j s model
+viewer
+viewer
+for example
+for example
+uh
+uh
+there is a typescript parser library called k t x parse
+there is a typescript parser library called k t x parse
+you can use this with vinyl meals
+you can use this with vinyl meals
+uh
+uh
+container independent transcoders or with chronicles
+container independent transcoders or with chronicles
+own transcoders that have been optimized for the
+own transcoders that have been optimized for the
+web and written in assembly scripts by
+web and written in assembly scripts by
+uh
+uh
+there is a reference c n c plus plus implementation
+there is a reference c n c plus plus implementation
+for the k t x tools
+for the k t x tools
+including precompiling command line tools that
+including precompiling command line tools that
+let you take sources from pretty much any format and
+let you take sources from pretty much any format and
+put them into the k t x container
+put them into the k t x container
+and you can even do this online with web assembly
+and you can even do this online with web assembly
+there are some best practices and usage guidelines
+there are some best practices and usage guidelines
+out there
+out there
+both for artists and for developers
+both for artists and for developers
+you can see here some pretty oppressive results where
+you can see here some pretty oppressive results where
+uh the uh the model on the left is the original source
+uh the uh the model on the left is the original source
+assets jpeg maintain
+assets jpeg maintain
+ah
+ah
+the middle one is the um
+the middle one is the um
+the highest quality universal a s t c plus e t c one s
+the highest quality universal a s t c plus e t c one s
+super compressed texture formats and the one on the
+super compressed texture formats and the one on the
+right is the lowest quality but highest compression
+right is the lowest quality but highest compression
+e t c one s
+e t c one s
+you can see that there's like a factor of three uh reduction
+you can see that there's like a factor of three uh reduction
+in the file size
+in the file size
+and a huge factor
+and a huge factor
+was it you know
+was it you know
+factor of six or something uh
+factor of six or something uh
+reduction in the uh in the v ram required to store this
+reduction in the uh in the v ram required to store this
+model
+model
+the models are are will be linked from this slide deck
+the models are are will be linked from this slide deck
+in a minute
+in a minute
+uh
+uh
+but basically just by using the g l t f and k t x two pipelines
+but basically just by using the g l t f and k t x two pipelines
+you get tremendous reductions in size of your art
+you get tremendous reductions in size of your art
+assets
+assets
+so please check it out
+so please check it out
+ah
+ah
+it's amazing
+it's amazing
+it works everywhere on the web
+it works everywhere on the web
+offline in native engines
+offline in native engines
+and it's a great way to uh reduce the size of your files
+and it's a great way to uh reduce the size of your files
+and get amazing quality
+and get amazing quality
+okay
+okay
+so jumping right into the brasserie implementary
+so jumping right into the brasserie implementary
+updates
+updates
+firefox has been working on miscellaneous performance
+firefox has been working on miscellaneous performance
+provements
+provements
+many of these are specifically targeted at google
+many of these are specifically targeted at google
+needs background
+needs background
+blurred and replace effects
+blurred and replace effects
+which in case you didn't know
+which in case you didn't know
+we're actually built on top of web
+we're actually built on top of web
+and firefox is also working on implementations of
+and firefox is also working on implementations of
+new webgl extensions
+new webgl extensions
+in safari and chrome
+in safari and chrome
+as you probably already know
+as you probably already know
+webgl two shipments apart fifteen last fall on both
+webgl two shipments apart fifteen last fall on both
+macos and ios
+macos and ios
+it's running on top of metal on all recent mac and iphone
+it's running on top of metal on all recent mac and iphone
+hardware and operating systems
+hardware and operating systems
+and apple and google are actively contributing the
+and apple and google are actively contributing the
+collaborating on the common substrate uh we're working
+collaborating on the common substrate uh we're working
+in particular
+in particular
+and angles metal backends
+and angles metal backends
+which was originally contributed by queen
+which was originally contributed by queen
+here are some highlights of recent work.
+here are some highlights of recent work.
+the safari team is rapidly diagnosing and fixing
+the safari team is rapidly diagnosing and fixing
+any regressions that have been reported compared
+any regressions that have been reported compared
+to the open gl backend
+to the open gl backend
+both in terms of correctness and performance
+both in terms of correctness and performance
+the safari teams also fixing webgl two performance
+the safari teams also fixing webgl two performance
+failures uh actually both both teams are working
+failures uh actually both both teams are working
+on this
+on this
+and one highlight is a major transform feedback bug
+and one highlight is a major transform feedback bug
+fixed by greg savarez google and kyle pittsburgh
+fixed by greg savarez google and kyle pittsburgh
+apple
+apple
+we are working on supporting dual gp
+we are working on supporting dual gp
+we are fixing and user test cases like unity's html
+we are fixing and user test cases like unity's html
+five export path
+five export path
+and we're working to switch chromes use angles metal
+and we're working to switch chromes use angles metal
+back end as well
+back end as well
+now all you developers can now consider web g l two
+now all you developers can now consider web g l two
+universally available across browsers
+universally available across browsers
+operating systems and devices
+operating systems and devices
+and as an application author
+and as an application author
+you can target web g o conference
+you can target web g o conference
+i wanna tell you that web g l two has resolved many corner
+i wanna tell you that web g l two has resolved many corner
+cases in the api and behavioral differences compared
+cases in the api and behavioral differences compared
+to the combination of web gl one
+to the combination of web gl one
+plus its many extensions
+plus its many extensions
+and we strongly encourage you to migrate web gl two
+and we strongly encourage you to migrate web gl two
+i would like to assert
+i would like to assert
+and i believe that it's true that it's no longer necessary
+and i believe that it's true that it's no longer necessary
+to maintain a webgl one fallback path
+to maintain a webgl one fallback path
+unless you need to reach absolutely every device
+unless you need to reach absolutely every device
+out there
+out there
+in particular
+in particular
+older windows
+older windows
+machines and android devices
+machines and android devices
+so uh
+so uh
+please consider revising your your code bases and
+please consider revising your your code bases and
+your engines and upgrading them to support webgl
+your engines and upgrading them to support webgl
+now if you're excited about the idea of uh running
+now if you're excited about the idea of uh running
+chrome's health ankles
+chrome's health ankles
+metal backgrounds and macros
+metal backgrounds and macros
+you can test this today by launching it from the command
+you can test this today by launching it from the command
+line uh
+line uh
+and you can compare its behavior to the old older open
+and you can compare its behavior to the old older open
+g.l.back end here are the command lines to use again
+g.l.back end here are the command lines to use again
+these lines are
+these lines are
+you don't need to to scribble these command lines
+you don't need to to scribble these command lines
+that you can basically just copy
+that you can basically just copy
+paste them into your terminal
+paste them into your terminal
+there are a few regressions still there uh
+there are a few regressions still there uh
+for example
+for example
+low power and high performance gps selection is not
+low power and high performance gps selection is not
+quite there uh
+quite there uh
+but it will be within
+but it will be within
+i don't know a few weeks
+i don't know a few weeks
+we think so
+we think so
+please file any bugs that you find with the metal backend
+please file any bugs that you find with the metal backend
+on angles issue tracker
+on angles issue tracker
+please file any bugs that you see in web g l safari fifteen
+please file any bugs that you see in web g l safari fifteen
+on the web kit issue tracker and for other browsers
+on the web kit issue tracker and for other browsers
+bugs
+bugs
+please consult the page
+please consult the page
+how to get a webgl implementation
+how to get a webgl implementation
+and you can file them there directly
+and you can file them there directly
+uh
+uh
+now a couple of uh mentions of new and upcoming word
+now a couple of uh mentions of new and upcoming word
+gl extensions oea straw buffers index
+gl extensions oea straw buffers index
+this extension was specifically requested by the
+this extension was specifically requested by the
+three d formats working groups implement advanced
+three d formats working groups implement advanced
+materials more efficiently
+materials more efficiently
+and we're excited to tell you that this has actually
+and we're excited to tell you that this has actually
+been approved by the website or working group
+been approved by the website or working group
+after long last and it's coming to operators soon
+after long last and it's coming to operators soon
+you can test it in chrome canary today by turning on
+you can test it in chrome canary today by turning on
+web gel draft extensions and about flags
+web gel draft extensions and about flags
+and within a couple of days
+and within a couple of days
+that will no longer be necessary
+that will no longer be necessary
+uh turning on what jail draft extensions it is um
+uh turning on what jail draft extensions it is um
+and it will come to all of chrome release channels
+and it will come to all of chrome release channels
+fairly soon
+fairly soon
+afterward
+afterward
+uh and will hopefully comes all browsers again soon
+uh and will hopefully comes all browsers again soon
+afterward
+afterward
+the base vertex base instance extensions have also
+the base vertex base instance extensions have also
+been in development for a long time
+been in development for a long time
+these can provide control over these parameters
+these can provide control over these parameters
+of these draw calls
+of these draw calls
+the base vertex for index draw calls
+the base vertex for index draw calls
+based instance
+based instance
+for instance
+for instance
+ones uh
+ones uh
+it also works with the multi draw extension
+it also works with the multi draw extension
+these reduce cpu memory overhead
+these reduce cpu memory overhead
+in certain scenarios
+in certain scenarios
+we've had discussions with developers online about
+we've had discussions with developers online about
+them
+them
+if you
+if you
+if you know that you need these parameters
+if you know that you need these parameters
+please try the prototypes of these in chrome
+please try the prototypes of these in chrome
+we would really appreciate your feedback to know
+we would really appreciate your feedback to know
+that they're working as expected that they're providing
+that they're working as expected that they're providing
+the performance improvement that that you're looking
+the performance improvement that that you're looking
+for um
+for um
+and these will comes all browsers after the the community
+and these will comes all browsers after the the community
+approval
+approval
+looking for a second implementation and another
+looking for a second implementation and another
+browser than chrome of these um extensions
+browser than chrome of these um extensions
+and that's really the only thing that's holding back
+and that's really the only thing that's holding back
+but we would greatly appreciate uh and user validation
+but we would greatly appreciate uh and user validation
+that these are uh are working correctly
+that these are uh are working correctly
+so uh
+so uh
+please try them out if you know the item
+please try them out if you know the item
+uh they're out there
+uh they're out there
+now uh
+now uh
+i'd like to hand off to kinda mia uh to talk about what
+i'd like to hand off to kinda mia uh to talk about what
+g p
+g p
+thank you
+thank you
+ken
+ken
+hey
+hey
+everyone
+everyone
+good morning
+good morning
+good afternoon
+good afternoon
+um
+um
+i'll be talking about giving some updates on web g
+i'll be talking about giving some updates on web g
+p u
+p u
+so just in case you're not aware uh
+so just in case you're not aware uh
+web g p u is an upcoming modern style graphics a p i for
+web g p u is an upcoming modern style graphics a p i for
+the web
+the web
+so that's along the lines of vulcan directory twelve
+so that's along the lines of vulcan directory twelve
+and metal uh
+and metal uh
+it uses a validated style with with things like pipeline
+it uses a validated style with with things like pipeline
+objects and buying groups that avoid draw time validation
+objects and buying groups that avoid draw time validation
+and simplify the logic of of the a.p.i.uh
+and simplify the logic of of the a.p.i.uh
+it also adds a lot of features compared with web gel
+it also adds a lot of features compared with web gel
+like compute shader shader storage
+like compute shader shader storage
+and it avoids global state
+and it avoids global state
+which helps make the api user to use
+which helps make the api user to use
+and it has many more of their improvements
+and it has many more of their improvements
+webb g p u is also a foundation for future features
+webb g p u is also a foundation for future features
+uh like binders rate racing shader features um sort
+uh like binders rate racing shader features um sort
+of whatever comes up in the native apis
+of whatever comes up in the native apis
+and we want to be able to expose across all across all
+and we want to be able to expose across all across all
+browsers and offering systems in the future
+browsers and offering systems in the future
+webgpu is under development on github at the w3c
+webgpu is under development on github at the w3c
+so thank you to chronos for hosting us here at this
+so thank you to chronos for hosting us here at this
+cronos meet up
+cronos meet up
+and we really appreciate it
+and we really appreciate it
+so webgpu standardization continues and conformance
+so webgpu standardization continues and conformance
+testing is in high gear
+testing is in high gear
+first stand for the specification and conformance
+first stand for the specification and conformance
+tests were aiming to reach a one point o in approximately
+tests were aiming to reach a one point o in approximately
+q two of this year
+q two of this year
+so within a couple of months
+so within a couple of months
+the shading language itself is under rapid standardization
+the shading language itself is under rapid standardization
+development
+development
+we've been working on feature completeness and a
+we've been working on feature completeness and a
+lot of language refinements and ergonomics
+lot of language refinements and ergonomics
+etc
+etc
+you can find the spec at this link
+you can find the spec at this link
+the api spec is driving toward one point oh
+the api spec is driving toward one point oh
+so we've been felt on this
+so we've been felt on this
+it's been on development for a long time
+it's been on development for a long time
+uh
+uh
+most of the areas of the spec are pretty solid
+most of the areas of the spec are pretty solid
+uh
+uh
+we're working on writing the spec
+we're working on writing the spec
+a number of recent areas of focus include video and
+a number of recent areas of focus include video and
+canvas
+canvas
+interop
+interop
+color management
+color management
+privacy and security
+privacy and security
+et cetera
+et cetera
+and you can also find the spec online
+and you can also find the spec online
+next slide
+next slide
+please
+please
+so webgpu is available to try today in chrome firefox 
+so webgpu is available to try today in chrome firefox 
+for local development
+for local development
+i recommend that you touched the latest browser codes
+i recommend that you touched the latest browser codes
+to use chrome canary or firefox nightly with these
+to use chrome canary or firefox nightly with these
+options
+options
+ah
+ah
+these two implementations are mostly interoperable
+these two implementations are mostly interoperable
+but not fully due to the fact that the spec is not stable
+but not fully due to the fact that the spec is not stable
+yet
+yet
+it's been changing
+it's been changing
+and so some changes have made it into one browser or
+and so some changes have made it into one browser or
+the other
+the other
+chrome in particular
+chrome in particular
+is running an origin trial
+is running an origin trial
+which allows you to publish web gpu apps directly
+which allows you to publish web gpu apps directly
+to end users
+to end users
+so this enables you to get a token for your website
+so this enables you to get a token for your website
+that enables web g p u to an end user without the end
+that enables web g p u to an end user without the end
+user having to enable any flags
+user having to enable any flags
+it's available on mac
+it's available on mac
+windows and chrome os and is running through chrome
+windows and chrome os and is running through chrome
+one o one
+one o one
+which ends in mid-may
+which ends in mid-may
+which leaves the stable channel in mid-may
+which leaves the stable channel in mid-may
+uh
+uh
+please note that if you use the origin trial
+please note that if you use the origin trial
+it is breaking by designs
+it is breaking by designs
+so you must keep your content up today
+so you must keep your content up today
+we do rolling deprecations and breakages to keep
+we do rolling deprecations and breakages to keep
+to keep things up to date with the latest spec
+to keep things up to date with the latest spec
+you can find instructions in web dot debt
+you can find instructions in web dot debt
+slash
+slash
+slash
+slash
+gpa
+gpa
+which i'll talk about later
+which i'll talk about later
+chrome is aiming for one point of release around chrome
+chrome is aiming for one point of release around chrome
+one o two or one o three
+one o two or one o three
+this is not a hard guarantee
+this is not a hard guarantee
+but this is this is our goal
+but this is this is our goal
+that is a roughly june.
+that is a roughly june.
+and linux and android support should come soon after
+and linux and android support should come soon after
+that
+that
+next slide, please.
+next slide, please.
+so there are a number of resources out there for web
+so there are a number of resources out there for web
+gpu
+gpu
+so
+so
+one of them will be brain and jones'presentation
+one of them will be brain and jones'presentation
+in this meet up on webgpu best practices
+in this meet up on webgpu best practices
+there are a lot of articles out there
+there are a lot of articles out there
+so web gpu dot web dot depth slash
+so web gpu dot web dot depth slash
+includes a tutorial on getting started with web gpu
+includes a tutorial on getting started with web gpu
+as well as instructions on using the origin trial
+as well as instructions on using the origin trial
+and there are a bunch of articles linked directly
+and there are a bunch of articles linked directly
+from there
+from there
+so i've not included them here um
+so i've not included them here um
+but i recommend checking it out
+but i recommend checking it out
+there are lots of samples for help to help you get started
+there are lots of samples for help to help you get started
+so we've got basic samples for first triangle up to
+so we've got basic samples for first triangle up to
+real world computing graphics techniques
+real world computing graphics techniques
+examples uh
+examples uh
+brand and jones has a number of examples for for techniques
+brand and jones has a number of examples for for techniques
+like co clustered trading and metabolism
+like co clustered trading and metabolism
+and a full fledged game that puts together a lot of
+and a full fledged game that puts together a lot of
+different features
+different features
+um
+um
+and there's also a shark shark shell has a demo
+and there's also a shark shark shell has a demo
+deferred rendering in web gpu.
+deferred rendering in web gpu.
+including some nasty bug views
+including some nasty bug views
+they show what goes on under the hood
+they show what goes on under the hood
+next slide, please.
+next slide, please.
+there are also a bunch of projects with web gpu backends
+there are also a bunch of projects with web gpu backends
+well under development babylon j s three g s tensor
+well under development babylon j s three g s tensor
+float js and others have been working on web g p back
+float js and others have been working on web g p back
+ends for years
+ends for years
+at this point
+at this point
+um
+um
+keeping up with development of the spec
+keeping up with development of the spec
+there's also w g p u and the ecosystem of rust based
+there's also w g p u and the ecosystem of rust based
+webgpu projects that use that library
+webgpu projects that use that library
+which can target web gpu assembly
+which can target web gpu assembly
+webgpu has a new shading language
+webgpu has a new shading language
+w g s l or wiggle
+w g s l or wiggle
+and so we're there are also a number of resources for
+and so we're there are also a number of resources for
+ah software resources for compiling between different
+ah software resources for compiling between different
+shader ah shader languages um between from from wiggle
+shader ah shader languages um between from from wiggle
+and spear v to wiggle spear v h l s l and m s l
+and spear v to wiggle spear v h l s l and m s l
+which we use for implementations
+which we use for implementations
+uh metal shedding language
+uh metal shedding language
+which we use for implementation
+which we use for implementation
+this is good for uh taking an existing shitter
+this is good for uh taking an existing shitter
+seeing what the wigs language looks like
+seeing what the wigs language looks like
+it's you
+it's you
+and it's useful for converting existing shaders
+and it's useful for converting existing shaders
+either on the flyer ahead of time
+either on the flyer ahead of time
+uh
+uh
+you can hook this up with g.l.s.link in order to compile
+you can hook this up with g.l.s.link in order to compile
+existing gl
+existing gl
+all the way to wake up.
+all the way to wake up.
+uh
+uh
+there are a number of implementation
+there are a number of implementation
+so google's tint
+so google's tint
+which is used for our implementation
+which is used for our implementation
+and mizzle is naga
+and mizzle is naga
+which is used for firefox implementation
+which is used for firefox implementation
+so check those out if you are looking for shader tools
+so check those out if you are looking for shader tools
+next slide
+next slide
+please
+please
+two contributions to web gpu are very welcome
+two contributions to web gpu are very welcome
+the api has been developed under development for
+the api has been developed under development for
+over five years
+over five years
+now
+now
+um
+um
+we're very close to a one point o release
+we're very close to a one point o release
+but there's a lot more work to do after that um
+but there's a lot more work to do after that um
+and there are still still a still a few things that
+and there are still still a still a few things that
+are under development for one point o
+are under development for one point o
+so please try out the a.p.i.file any issues that you
+so please try out the a.p.i.file any issues that you
+run into with the a.p.i.uh file feature requests
+run into with the a.p.i.uh file feature requests
+if there are major areas that you would need in order
+if there are major areas that you would need in order
+to port applications
+to port applications
+for example
+for example
+uh file browser bugs against the browsers
+uh file browser bugs against the browsers
+if you find them
+if you find them
+and try out web gpu via various libraries that have
+and try out web gpu via various libraries that have
+web gpu backends try out the origin
+web gpu backends try out the origin
+try out uh publishing sites with the origin trial
+try out uh publishing sites with the origin trial
+so you can get user feedback
+so you can get user feedback
+um we're also under were were the conformance tests
+um we're also under were were the conformance tests
+are under development on github
+are under development on github
+so you can also help with ensuring that our implementations
+so you can also help with ensuring that our implementations
+are consistent
+are consistent
+and of course
+and of course
+contributing samples in demos using web gpu would
+contributing samples in demos using web gpu would
+benefit the whole community greatly
+benefit the whole community greatly
+you can join the conversations on the matrix chat
+you can join the conversations on the matrix chat
+uh
+uh
+that's a irc like chat room that has all of the web gpu
+that's a irc like chat room that has all of the web gpu
+developers and implementers present um
+developers and implementers present um
+so it's a really great resource to get involved
+so it's a really great resource to get involved
+next slide, please.
+next slide, please.
+so today
+so today
+we have a great line up of presenters
+we have a great line up of presenters
+i think i've already been announced
+i think i've already been announced
+but here's the uh
+but here's the uh
+here's the the the list
+here's the the the list
+uh next up
+uh next up
+we'll be bringing jones from google
+we'll be bringing jones from google
+giving a presentation web g p best practices in demos
+giving a presentation web g p best practices in demos
+then we have a video from takahiro ang yagi from mozilla
+then we have a video from takahiro ang yagi from mozilla
+on his online ups editor for for the wakeful shading
+on his online ups editor for for the wakeful shading
+language
+language
+and then jonathan sanchez will talk about code vendor
+and then jonathan sanchez will talk about code vendor
+and donald hutchins will talk about new rendering
+and donald hutchins will talk about new rendering
+features in play canvas
+features in play canvas
+as i think we've already mentioned
+as i think we've already mentioned
+but just for anybody who joined late
+but just for anybody who joined late
+feel free to type your questions in the q and a at any
+feel free to type your questions in the q and a at any
+time
+time
+we will visit those at the end
+we will visit those at the end
+and some of us might answer questions during the presentations
+and some of us might answer questions during the presentations
+as well
+as well
+um
+um
+and just make sure to put the questions in the q and
+and just make sure to put the questions in the q and
+a so that we have them in the in the question list at
+a so that we have them in the in the question list at
+the end
+the end
+um
+um
+and with that
+and with that
+i'll hand it over to brandon
+i'll hand it over to brandon
+all right
+all right
+thank you very much
+thank you very much
+kay and ken
+kay and ken
+i'm going to shorten my screen
+i'm going to shorten my screen
+really quit
+really quit
+okay, hopefully, everyone can see this.
+okay, hopefully, everyone can see this.
+keep looking good.
+keep looking good.
+great, thank you, alright. so.
+great, thank you, alright. so.
+pleasure to be here
+pleasure to be here
+everyone
+everyone
+my name's brandon jones
+my name's brandon jones
+i'm really excited to be able to present today
+i'm really excited to be able to present today
+going over some best practices for web g p u um
+going over some best practices for web g p u um
+so as for me
+so as for me
+i'm a developer on the chrome team
+i'm a developer on the chrome team
+i've been at google for about nine years
+i've been at google for about nine years
+uh
+uh
+currently working on web g p u as one of the spectators
+currently working on web g p u as one of the spectators
+along with kai
+along with kai
+and also a chrome's implementation
+and also a chrome's implementation
+and previously i worked on web x r and web gl as well
+and previously i worked on web x r and web gl as well
+so kind of just all things graphics on the
+so kind of just all things graphics on the
+and i like to build demos with the text that i'm helping
+and i like to build demos with the text that i'm helping
+implement because one it's fun and two
+implement because one it's fun and two
+it helps uh find bugs such how best practices provides
+it helps uh find bugs such how best practices provides
+good community resources since i just find it to be
+good community resources since i just find it to be
+in all around useful exercise um
+in all around useful exercise um
+so i'm not going to go through all of these lane
+so i'm not going to go through all of these lane
+but um
+but um
+some of the demos that i've done with web g.p.u.specifically
+some of the demos that i've done with web g.p.u.specifically
+in the past have been implementing algorithms like
+in the past have been implementing algorithms like
+plastered shading or a implementation of generating
+plastered shading or a implementation of generating
+marching cubes metabolism on the gpu
+marching cubes metabolism on the gpu
+which turns out is way way faster than doing it in javascrip
+which turns out is way way faster than doing it in javascrip
+uh
+uh
+and then the one that i will display is my most recent
+and then the one that i will display is my most recent
+is a game that i called cookie ball
+is a game that i called cookie ball
+it was released around halloween
+it was released around halloween
+if you couldn't tell
+if you couldn't tell
+and this is a fairly simple game mechanics wise
+and this is a fairly simple game mechanics wise
+it is basically just break out um and everything is
+it is basically just break out um and everything is
+just nice and scrutiny themed um
+just nice and scrutiny themed um
+but it's also possibly the first fully web g p u game
+but it's also possibly the first fully web g p u game
+uh developed um could be wrong about that
+uh developed um could be wrong about that
+but it's definitely one of the first
+but it's definitely one of the first
+and this was an exercise for me to just say
+and this was an exercise for me to just say
+you know
+you know
+can we pull this all together and produce a a full playable
+can we pull this all together and produce a a full playable
+product
+product
+make sure that we're getting some of the more common
+make sure that we're getting some of the more common
+graphics techniques in there
+graphics techniques in there
+you can see we're using shadow mapping
+you can see we're using shadow mapping
+we've got a bloom filter for any missive materials
+we've got a bloom filter for any missive materials
+uh we're loading up g l t f uh assets
+uh we're loading up g l t f uh assets
+we've got some animation going in here
+we've got some animation going in here
+it's all fairly subtle
+it's all fairly subtle
+but uh
+but uh
+you know
+you know
+just basically trying to pull it all together and
+just basically trying to pull it all together and
+see what's difficult
+see what's difficult
+what's easy
+what's easy
+what maybe needs some more work
+what maybe needs some more work
+what bugs we run into that kind of thing
+what bugs we run into that kind of thing
+uh
+uh
+so you can play this right now spooky ball dot com um
+so you can play this right now spooky ball dot com um
+by the way
+by the way
+these slides are going to be available
+these slides are going to be available
+so you don't need to run around and
+so you don't need to run around and
+and take notes like crazy because i'm gonna go through
+and take notes like crazy because i'm gonna go through
+this kind of fast um
+this kind of fast um
+and again
+and again
+a lot of you would probably not trigger gpu
+a lot of you would probably not trigger gpu
+so that's far
+so that's far
+and so some of this will sound like goblin google
+and so some of this will sound like goblin google
+that's okay
+that's okay
+you can come back after you've tried it a little bit
+you can come back after you've tried it a little bit
+and are more familiar with the api
+and are more familiar with the api
+and you'll be able to understand a little bit better
+and you'll be able to understand a little bit better
+what some of these are referring to
+what some of these are referring to
+first off
+first off
+one of the things that i cannot recommend enough is
+one of the things that i cannot recommend enough is
+to use the labels mechanism that we've developed
+to use the labels mechanism that we've developed
+everywhere uh every single object in web g p u has a
+everywhere uh every single object in web g p u has a
+label that you can set either creation time or during
+label that you can set either creation time or during
+the um during run time
+the um during run time
+and you should do it as much as possible
+and you should do it as much as possible
+there's basically zero runtime cost
+there's basically zero runtime cost
+and it will make your debugging life much
+and it will make your debugging life much
+much easier uh
+much easier uh
+specifically because uh we is the web g l implementer
+specifically because uh we is the web g l implementer
+or the web g.p.u.implementers
+or the web g.p.u.implementers
+excuse me
+excuse me
+we'll make sure to return the labels to you in error
+we'll make sure to return the labels to you in error
+messages
+messages
+so you can see an example at the bottom of this slide
+so you can see an example at the bottom of this slide
+uh
+uh
+where we're saying
+where we're saying
+hey
+hey
+like you try to write too much data into a buffer
+like you try to write too much data into a buffer
+and i'm we're actually returning the name of the buffer
+and i'm we're actually returning the name of the buffer
+that this error occurred against because as the the
+that this error occurred against because as the the
+label gave us
+label gave us
+and that makes debugging way easier
+and that makes debugging way easier
+similarly
+similarly
+we also have a mechanism called feedback groups
+we also have a mechanism called feedback groups
+and you should use these uh wherever it's appropriate
+and you should use these uh wherever it's appropriate
+this is really just a stack of labels uh that you can
+this is really just a stack of labels uh that you can
+push and pop as you go into your command decoder and
+push and pop as you go into your command decoder and
+the various render passes
+the various render passes
+and it just kind of lets us know where you are in your
+and it just kind of lets us know where you are in your
+your application
+your application
+so that once again
+so that once again
+when we generate error messages
+when we generate error messages
+we can return the feedback group stack to you and say
+we can return the feedback group stack to you and say
+this is where you told us you were in your algorithm
+this is where you told us you were in your algorithm
+so that you can pinpoint where the errors happen better
+so that you can pinpoint where the errors happen better
+ah
+ah
+very
+very
+very valuable when you're trying to suss out where
+very valuable when you're trying to suss out where
+it issue is
+it issue is
+uh
+uh
+turning more to the mechanics of the a p
+turning more to the mechanics of the a p
+i like the the getting assets in and out
+i like the the getting assets in and out
+um
+um
+one of the common uh patterns that we saw with web g
+one of the common uh patterns that we saw with web g
+l was when you want to load an image from a j.peg or p
+l was when you want to load an image from a j.peg or p
+and g
+and g
+you would put it into an image tag and then push push
+you would put it into an image tag and then push push
+that image gentleman into text image two d
+that image gentleman into text image two d
+and that would be how you got a texture
+and that would be how you got a texture
+this is a very common pattern
+this is a very common pattern
+we see it on all the major libraries
+we see it on all the major libraries
+it's been happening since the day that what g l existed
+it's been happening since the day that what g l existed
+or first existed um
+or first existed um
+but you can't quite do that in web g p u
+but you can't quite do that in web g p u
+so my time is as a bit of a surprise
+so my time is as a bit of a surprise
+instead
+instead
+you have to pass in image bit maps
+you have to pass in image bit maps
+now you can get an image bit map from an image element
+now you can get an image bit map from an image element
+but we don't recommend you do that at least in chrome
+but we don't recommend you do that at least in chrome
+it turns out that
+it turns out that
+that forces the decode of the image they happen on
+that forces the decode of the image they happen on
+the main thread
+the main thread
+and so you'll get a bit of a
+and so you'll get a bit of a
+instead
+instead
+what we recommend is
+what we recommend is
+ah
+ah
+anytime you're getting an image from like a u r l
+anytime you're getting an image from like a u r l
+just use batch to get it and get a blob out of that and
+just use batch to get it and get a blob out of that and
+what you can create image payment upon the blog
+what you can create image payment upon the blog
+this allows it to the code off the main threat
+this allows it to the code off the main threat
+and so it's probably the most efficient way to get
+and so it's probably the most efficient way to get
+an image or a texture out of a j.peg or a phg
+an image or a texture out of a j.peg or a phg
+however
+however
+uh
+uh
+we really
+we really
+really
+really
+really can prefer that you use compressed textures
+really can prefer that you use compressed textures
+instead
+instead
+ah
+ah
+this is something that that can mention a lot about
+this is something that that can mention a lot about
+and i'm gonna harp on
+and i'm gonna harp on
+it's more because it's important
+it's more because it's important
+uh webgl didn't ship with the best compressed texture
+uh webgl didn't ship with the best compressed texture
+store either
+store either
+support was little flaky
+support was little flaky
+the tooling wasn't quite there
+the tooling wasn't quite there
+and so it didn't get quite as much uptake as we would
+and so it didn't get quite as much uptake as we would
+have liked
+have liked
+but with what g p u
+but with what g p u
+we really wanna get off on a better foot uh compressed
+we really wanna get off on a better foot uh compressed
+texture support is going to be there from day one
+texture support is going to be there from day one
+uh
+uh
+it's required to be supported on every system you'll
+it's required to be supported on every system you'll
+get um either one or two uh compressed texture formats
+get um either one or two uh compressed texture formats
+at minimum on every device um
+at minimum on every device um
+and there's a lot of better tooling in this
+and there's a lot of better tooling in this
+the ecosystem now
+the ecosystem now
+such as as can mention k t x two basis universal stuff
+such as as can mention k t x two basis universal stuff
+like that
+like that
+now this does take more code
+now this does take more code
+uh
+uh
+it's not something that can be represented fully
+it's not something that can be represented fully
+on a slide like the last thing um
+on a slide like the last thing um
+but it is worth it uh
+but it is worth it uh
+and there's going to be
+and there's going to be
+i i'm sure all the major libraries are going to support
+i i'm sure all the major libraries are going to support
+it out the gate
+it out the gate
+and then i've got standalone library
+and then i've got standalone library
+a standalone library down at the bottom here that
+a standalone library down at the bottom here that
+you are free to use or reference or whatever you'd
+you are free to use or reference or whatever you'd
+like
+like
+um
+um
+does most of the right things like decoding off on
+does most of the right things like decoding off on
+a worker thread uh
+a worker thread uh
+and it is really worth the effort and to demonstrate
+and it is really worth the effort and to demonstrate
+that i wanted to do a quick case study with one of assets
+that i wanted to do a quick case study with one of assets
+from the spooky ball demo that i just showed
+from the spooky ball demo that i just showed
+this is the paddle
+this is the paddle
+it's too little ghost that ah float with a cough and
+it's too little ghost that ah float with a cough and
+back and forth
+back and forth
+not terribly complicated
+not terribly complicated
+um
+um
+the asset itself has five textures baked into it uh
+the asset itself has five textures baked into it uh
+they're all p and g's
+they're all p and g's
+and they're uh two k by two k h
+and they're uh two k by two k h
+which is ridiculous for the amount of space this takes
+which is ridiculous for the amount of space this takes
+up on the screen
+up on the screen
+but we'll
+but we'll
+this comes out of blender at about twelve megabytes
+this comes out of blender at about twelve megabytes
+which isn't terrible
+which isn't terrible
+but could be better
+but could be better
+um
+um
+in my case
+in my case
+i use a tool called g l t f transform
+i use a tool called g l t f transform
+which has really nice command line interface
+which has really nice command line interface
+but also has a library
+but also has a library
+if you want to do it more programmatically
+if you want to do it more programmatically
+and i use that to take all my g l t f track assets and do
+and i use that to take all my g l t f track assets and do
+texture encoding on them with the k h r texture basis
+texture encoding on them with the k h r texture basis
+you extension the kennel was mentioning earlier
+you extension the kennel was mentioning earlier
+and this takes this particular asset down from almost
+and this takes this particular asset down from almost
+twelve megabytes to one point seven
+twelve megabytes to one point seven
+that is
+that is
+huge reduction uh
+huge reduction uh
+part of that is just because the textures themselves
+part of that is just because the textures themselves
+are so simple
+are so simple
+but like i see this style of reduction on every asset
+but like i see this style of reduction on every asset
+i run these these tools on
+i run these these tools on
+and furthermore
+and furthermore
+there's a lot of other transforms that that same tool
+there's a lot of other transforms that that same tool
+can do um
+can do um
+such as applying drago mass compression more
+such as applying drago mass compression more
+and if i stack them all up together
+and if i stack them all up together
+including resizing the texture
+including resizing the texture
+so they're not so ridiculously huge
+so they're not so ridiculously huge
+the asset that i actually ship in spooky ball comes
+the asset that i actually ship in spooky ball comes
+out to about half a mag
+out to about half a mag
+which is like less than five percent of the original
+which is like less than five percent of the original
+size
+size
+and most of that is from texture compression
+and most of that is from texture compression
+so i cannot stress enough how valuable texture compression
+so i cannot stress enough how valuable texture compression
+is
+is
+and i want everybody to use it
+and i want everybody to use it
+from day one.
+from day one.
+moving on from textures
+moving on from textures
+one of the things that we've gpu introduces that's
+one of the things that we've gpu introduces that's
+different from webgl is there happens to be a lot of
+different from webgl is there happens to be a lot of
+ways to get data to buffer
+ways to get data to buffer
+vertex buffers
+vertex buffers
+index buffers
+index buffers
+storage buffers
+storage buffers
+whatever uh
+whatever uh
+and it can be a little intimidating
+and it can be a little intimidating
+but there is convenience function called right buffet
+but there is convenience function called right buffet
+and when in doubt
+and when in doubt
+that is never ever the wrong answer
+that is never ever the wrong answer
+now you might think to yourself as convenience functions
+now you might think to yourself as convenience functions
+so therefore
+so therefore
+it must have a downside
+it must have a downside
+and i'm happy to report in this particular case
+and i'm happy to report in this particular case
+no
+no
+not really um
+not really um
+there are probably scenarios where you could construct
+there are probably scenarios where you could construct
+a better upload pipeline for a specific scenario
+a better upload pipeline for a specific scenario
+using some of the other mechanisms
+using some of the other mechanisms
+but really
+but really
+you should fall
+you should fall
+you should try right buffer first and only go past
+you should try right buffer first and only go past
+that if you find that it's a bottleneck
+that if you find that it's a bottleneck
+and especially in the case of using something like
+and especially in the case of using something like
+web assembly
+web assembly
+right buffer is actually the preferred way because
+right buffer is actually the preferred way because
+it avoids a different and additional copy
+it avoids a different and additional copy
+so this is one of those cases where using the convenience
+so this is one of those cases where using the convenience
+function is absolutely
+function is absolutely
+um.
+um.
+now one of the other things that you're going to be
+now one of the other things that you're going to be
+dealing with a lot in web v p u is what's called pipelines
+dealing with a lot in web v p u is what's called pipelines
+this is kind of just a big bundle of all of the state
+this is kind of just a big bundle of all of the state
+that you used to be setting globally in one g p not or
+that you used to be setting globally in one g p not or
+one g l
+one g l
+not all of the state
+not all of the state
+but most of it things like shaders and blend modes
+but most of it things like shaders and blend modes
+and polygon topology and all that kind of stuff
+and polygon topology and all that kind of stuff
+you're gonna create a lot of them
+you're gonna create a lot of them
+uh
+uh
+now there is a synchronous and an asynchronous version
+now there is a synchronous and an asynchronous version
+of these functions
+of these functions
+ah synchronous is kind of an air quotes here because
+ah synchronous is kind of an air quotes here because
+both versions will return to you immediately
+both versions will return to you immediately
+uh
+uh
+and then do work in the background
+and then do work in the background
+but the downside with the synchronous version is
+but the downside with the synchronous version is
+it will hand you a handle to the pipeline
+it will hand you a handle to the pipeline
+and you can turn around and use it immediately to either
+and you can turn around and use it immediately to either
+render or dispatch compute
+render or dispatch compute
+and if you do that
+and if you do that
+your users will see a massive drink in their performance
+your users will see a massive drink in their performance
+because chances are the pipeline is not ready to use
+because chances are the pipeline is not ready to use
+unless it was
+unless it was
+and.
+and.
+you
+you
+your g p u will hit that point where you've dispatched
+your g p u will hit that point where you've dispatched
+work to it and just stop and wait for the pipeline to
+work to it and just stop and wait for the pipeline to
+finish compiling shader
+finish compiling shader
+whatever else it needs to do before it can continue
+whatever else it needs to do before it can continue
+this will probably look like a five hundred millisecond
+this will probably look like a five hundred millisecond
+junk to a user
+junk to a user
+depending on the complexity of the pipeline
+depending on the complexity of the pipeline
+instead
+instead
+if you can like
+if you can like
+say
+say
+during the load screen where you're not needing to
+during the load screen where you're not needing to
+use the pipeline
+use the pipeline
+the same frame that was created
+the same frame that was created
+you should use the i think version of these because
+you should use the i think version of these because
+they'll return promise that results to the pipeline
+they'll return promise that results to the pipeline
+and when that promise resolves
+and when that promise resolves
+the pipeline is guaranteed to be ready to use without
+the pipeline is guaranteed to be ready to use without
+undue stalling
+undue stalling
+so you can turn around and use it immediately
+so you can turn around and use it immediately
+and you should not get anywhere near the same type
+and you should not get anywhere near the same type
+of jake that you would with the other
+of jake that you would with the other
+um.
+um.
+couple of last uh best practices to go over here
+couple of last uh best practices to go over here
+excuse me
+excuse me
+regarding pipelines um
+regarding pipelines um
+is we have a mechanism called implicit pipeline layouts
+is we have a mechanism called implicit pipeline layouts
+um.
+um.
+at least at the moment
+at least at the moment
+we're still discussing this one a little bit
+we're still discussing this one a little bit
+and this is another convenience mechanism
+and this is another convenience mechanism
+but unlike right buffer
+but unlike right buffer
+it's one that you should approach with caution
+it's one that you should approach with caution
+uh
+uh
+implicit pipeline layouts are really nice when you're
+implicit pipeline layouts are really nice when you're
+doing a shader that is completely isolated
+doing a shader that is completely isolated
+it doesn't really share data with anything else
+it doesn't really share data with anything else
+which is rare
+which is rare
+admittedly
+admittedly
+um
+um
+but then you can just say
+but then you can just say
+oh
+oh
+i want to have you compile the shader and just give
+i want to have you compile the shader and just give
+me a layout for all of my uh buying group information
+me a layout for all of my uh buying group information
+which is buffers
+which is buffers
+textures
+textures
+samplers
+samplers
+stuff like that just generate that for me uh and it
+stuff like that just generate that for me uh and it
+works
+works
+and it works fairly well
+and it works fairly well
+um
+um
+but there's downsides to it
+but there's downsides to it
+uh
+uh
+the biggest one is you can't actually share buying
+the biggest one is you can't actually share buying
+groups that you create against the implicit pipeline
+groups that you create against the implicit pipeline
+layout with any other pipelines
+layout with any other pipelines
+which is bad for performance
+which is bad for performance
+and then the other thing
+and then the other thing
+ah
+ah
+probably more significant is that they can the layouts
+probably more significant is that they can the layouts
+can change unexpectedly while you're updating the
+can change unexpectedly while you're updating the
+shader
+shader
+and it's maybe not always intuitive as to how it's
+and it's maybe not always intuitive as to how it's
+changed beneath
+changed beneath
+beneath the surface
+beneath the surface
+so it can be a little bit difficult to debug and can
+so it can be a little bit difficult to debug and can
+cause a lot of frustration
+cause a lot of frustration
+so this is a mechanism that you really should approach
+so this is a mechanism that you really should approach
+fairly sparingly and really prefer to use explicit
+fairly sparingly and really prefer to use explicit
+buying group layout
+buying group layout
+um
+um
+i'm going to zip through these last few slides really
+i'm going to zip through these last few slides really
+quick
+quick
+so we can move on to next
+so we can move on to next
+but basically
+but basically
+whenever you're declaring um the layout of the information
+whenever you're declaring um the layout of the information
+that you're going to pass into a shader
+that you're going to pass into a shader
+you're using something called buying group layout
+you're using something called buying group layout
+and you can explicitly declare these or you you will
+and you can explicitly declare these or you you will
+usually just explicitly declare these and then create
+usually just explicitly declare these and then create
+buying groups of the actual assets from those and
+buying groups of the actual assets from those and
+the benefit of doing this is that you can then share
+the benefit of doing this is that you can then share
+that layout between multiple different render pipelines
+that layout between multiple different render pipelines
+multiple render states
+multiple render states
+uh
+uh
+and by doing it
+and by doing it
+where you put same by group layoffs and the same slot
+where you put same by group layoffs and the same slot
+in every render pipeline
+in every render pipeline
+you can get to a render loop that looks a little bit
+you can get to a render loop that looks a little bit
+like this
+like this
+where i go and say
+where i go and say
+hey
+hey
+i've got this set of common uniforms like camera ah
+i've got this set of common uniforms like camera ah
+prospective matrix view metrics
+prospective matrix view metrics
+stuff like that
+stuff like that
+and i'm just gonna set it once at the beginning of my
+and i'm just gonna set it once at the beginning of my
+render loop
+render loop
+and then every other pipeline will be able to use it
+and then every other pipeline will be able to use it
+as is uh
+as is uh
+this is a mass reduction in the amount of state that
+this is a mass reduction in the amount of state that
+you need to set uh
+you need to set uh
+especially when you got something that's just shared
+especially when you got something that's just shared
+between everything
+between everything
+and it's really the pattern that you should be looking
+and it's really the pattern that you should be looking
+for when you're trying to improve performance and
+for when you're trying to improve performance and
+by g p rendering
+by g p rendering
+so that's one of the big reasons why we really recommend
+so that's one of the big reasons why we really recommend
+that you managed your own uh layout
+that you managed your own uh layout
+and that's all i have time for today
+and that's all i have time for today
+uh
+uh
+so thank you very much
+so thank you very much
+uh
+uh
+i'm going to continue uh writing up information about
+i'm going to continue uh writing up information about
+best practices and publish them online
+best practices and publish them online
+um
+um
+you'll be able to find those when i publish them at
+you'll be able to find those when i publish them at
+my twitter account uh or uh the links that i got on this
+my twitter account uh or uh the links that i got on this
+last side here
+last side here
+and if you have questions specifically for me
+and if you have questions specifically for me
+you can always email me at p h l to google dot com
+you can always email me at p h l to google dot com
+thank you
+thank you
+and now i believe we're going to hand off to tackle
+and now i believe we're going to hand off to tackle
+hero
+hero
+yes
+yes
+thank you so much
+thank you so much
+brandon
+brandon
+that was amazing
+that was amazing
+um
+um
+thanks for keeping us on the leading edge of what gp
+thanks for keeping us on the leading edge of what gp
+developments and showing us really had to use the
+developments and showing us really had to use the
+a p i well
+a p i well
+yeah
+yeah
+so it's like a hero is in japan right now
+so it's like a hero is in japan right now
+and it's a a very
+and it's a a very
+very crazy hour for him
+very crazy hour for him
+so he wasn't able to attend live and he will be uh perfectly
+so he wasn't able to attend live and he will be uh perfectly
+presenting his online wiggle editor
+presenting his online wiggle editor
+hi
+hi
+i am talking here from modella today
+i am talking here from modella today
+i want to introduce my personal project online w g
+i want to introduce my personal project online w g
+s l editor oh
+s l editor oh
+i'm on parental leave in japan now
+i'm on parental leave in japan now
+so i i recorded this video beforehand
+so i i recorded this video beforehand
+i wish i could join the media at home time
+i wish i could join the media at home time
+anyway
+anyway
+oh w g s l uh
+oh w g s l uh
+it is a it is a new shedding a language for web g p u
+it is a it is a new shedding a language for web g p u
+no
+no
+i expect uh someone else in the media has already explained
+i expect uh someone else in the media has already explained
+what
+what
+so question
+so question
+how do you want to study a new shedding language
+how do you want to study a new shedding language
+don't you want to do it by actually writing the code
+don't you want to do it by actually writing the code
+and seeing the effects and good news
+and seeing the effects and good news
+i made an online w g s l editor
+i made an online w g s l editor
+it is life coding editor
+it is life coding editor
+you can test w g s l on it
+you can test w g s l on it
+uh
+uh
+it runs on your web browsers
+it runs on your web browsers
+you don't need to
+you don't need to
+you don't need to install anything but just access
+you don't need to install anything but just access
+the web
+the web
+uh
+uh
+the editor web application page
+the editor web application page
+so the more time.
+so the more time.
+this is editor with application page
+this is editor with application page
+now if you move the mouse pointer into the window
+now if you move the mouse pointer into the window
+uh
+uh
+the editor shows up
+the editor shows up
+if you move it out
+if you move it out
+the editor is hidden and you can watch the effects
+the editor is hidden and you can watch the effects
+more clearly
+more clearly
+and the editor supports um basic editor features
+and the editor supports um basic editor features
+like review and
+like review and
+so let's uh
+so let's uh
+let's start with changing the color to gray by editing
+let's start with changing the color to gray by editing
+the fragment shadow here
+the fragment shadow here
+the grey grey is 
+the grey grey is 
+edit.
+edit.
+the code is automatically compiled
+the code is automatically compiled
+what is it you can won't you can see the grey car
+what is it you can won't you can see the grey car
+and the editor supports air highlighting let me put
+and the editor supports air highlighting let me put
+some wrong code here
+some wrong code here
+and as you see
+and as you see
+the air core is highlighted and the status at the top
+the air core is highlighted and the status at the top
+left became error
+left became error
+and if you point the highlighted wrong code
+and if you point the highlighted wrong code
+you can you can see the reason why the code is wrong
+you can you can see the reason why the code is wrong
+no
+no
+this feature helps helps you understand the w g s l
+this feature helps helps you understand the w g s l
+a grammar
+a grammar
+and the editor supports some geometry and camera
+and the editor supports some geometry and camera
+type selection
+type selection
+now you now you can test the desk with the box g m
+now you now you can test the desk with the box g m
+iterate that you can rotate the geometry geometry
+iterate that you can rotate the geometry geometry
+right
+right
+and not only the fragment shader
+and not only the fragment shader
+but also you can edit the broadcast shader for us
+but also you can edit the broadcast shader for us
+update the brother's trader
+update the brother's trader
+uh.
+uh.
+eat.
+eat.
+yeah.
+yeah.
+um, for this.
+um, for this.
+so change.
+so change.
+you.
+you.
+so let's apply.
+so let's apply.
+weed grades.
+weed grades.
+thank you.
+thank you.
+ya.
+ya.
+speaker.
+speaker.
+ya.
+ya.
+disney.
+disney.
+okay, let's move back. let's move back to the slides.
+okay, let's move back. let's move back to the slides.
+so future works.
+so future works.
+currently
+currently
+the editor
+the editor
+since you run on only on chrome
+since you run on only on chrome
+we maybe with windows
+we maybe with windows
+i want to add more browsers in the platform support
+i want to add more browsers in the platform support
+actually  i sell some feedback to the firebox 
+actually  i sell some feedback to the firebox 
+luckily  the editor will be able to run 
+luckily  the editor will be able to run 
+soon.
+soon.
+and i want to add texture
+and i want to add texture
+texture support with editor
+texture support with editor
+but you will be able to test textures on the editor
+but you will be able to test textures on the editor
+and i'm thinking of supporting safe load fork and
+and i'm thinking of supporting safe load fork and
+share the shared code
+share the shared code
+so you will be able to share the so uh your share record
+so you will be able to share the so uh your share record
+with others
+with others
+and you can learn uh w g s l from the other from others
+and you can learn uh w g s l from the other from others
+shared
+shared
+uh
+uh
+the last phase of resources uh
+the last phase of resources uh
+this is a repository
+this is a repository
+the editor
+the editor
+you can throw it a demo
+you can throw it a demo
+and also you can read the source code
+and also you can read the source code
+your contributions and feedback are very important
+your contributions and feedback are very important
+and very welcome
+and very welcome
+now
+now
+thank you so much for listening
+thank you so much for listening
+so uh
+so uh
+thank you vertically talk here for this awesome tool
+thank you vertically talk here for this awesome tool
+awesome presentation
+awesome presentation
+um
+um
+everybody
+everybody
+i hope that you'll learn a wiggle really easily by
+i hope that you'll learn a wiggle really easily by
+uh playing around with it with this tool
+uh playing around with it with this tool
+so uh
+so uh
+let's hand off next to uh jamie sanchez um
+let's hand off next to uh jamie sanchez um
+who will be uh feeling his amazing work on the code
+who will be uh feeling his amazing work on the code
+number series
+number series
+hello, can and everyone hear me.
+hello, can and everyone hear me.
+and see my screen
+and see my screen
+we can hear you great and see your screen
+we can hear you great and see your screen
+okay, cool.
+okay, cool.
+so yeah
+so yeah
+thank you
+thank you
+everyone
+everyone
+for having me my name is yamaha sanchez
+for having me my name is yamaha sanchez
+i'm u i engineer uh doing visualization at this point
+i'm u i engineer uh doing visualization at this point
+but i do create difficulty in the dark hours of the
+but i do create difficulty in the dark hours of the
+night um
+night um
+and i'm gonna explain about my process and what i've
+and i'm gonna explain about my process and what i've
+been up to
+been up to
+um
+um
+so in the first question would be why creative coding
+so in the first question would be why creative coding
+and probably they're why not creative coding
+and probably they're why not creative coding
+so in a way
+so in a way
+uh
+uh
+creative coding is is quite liberating in the sense
+creative coding is is quite liberating in the sense
+that uh there's no necessarily road map
+that uh there's no necessarily road map
+there's no deliveries
+there's no deliveries
+there are no
+there are no
+okay yours
+okay yours
+um
+um
+you can set your own goals and and and and meet them
+you can set your own goals and and and and meet them
+at your own pace
+at your own pace
+um
+um
+you can set your your constraints
+you can set your your constraints
+you can set your expectations
+you can set your expectations
+which is is deliberating
+which is is deliberating
+it's at the same time
+it's at the same time
+it's fulfilling
+it's fulfilling
+being able to reach consciously or unconsciously
+being able to reach consciously or unconsciously
+uh or by pierce and deputy interesting things
+uh or by pierce and deputy interesting things
+it's also it's also quite good
+it's also it's also quite good
+and it's basically it's fun
+and it's basically it's fun
+it's it's really fun
+it's it's really fun
+so i'm going to explain my process
+so i'm going to explain my process
+this is not necessarily something that applies to
+this is not necessarily something that applies to
+everyone
+everyone
+uh
+uh
+everyone has their own way of dealing with with web
+everyone has their own way of dealing with with web
+development and and and there are tools um like this
+development and and and there are tools um like this
+one works for me
+one works for me
+it's not prescriptive
+it's not prescriptive
+there's not meant to be any any exactly how uh how to
+there's not meant to be any any exactly how uh how to
+uh
+uh
+so use an editor
+so use an editor
+use visual studio code
+use visual studio code
+i use a server
+i use a server
+whatever server uh
+whatever server uh
+what's the reason
+what's the reason
+my platform
+my platform
+in this case a python or a note server chrome as
+in this case a python or a note server chrome as
+and usually a framework or library like three js is
+and usually a framework or library like three js is
+really useful to get a lot of the website code out of
+really useful to get a lot of the website code out of
+the way and focus on on what you can actually uh deal
+the way and focus on on what you can actually uh deal
+with
+with
+uh
+uh
+i don't use n p m
+i don't use n p m
+i use bundles
+i use bundles
+no type three compiler
+no type three compiler
+no livelihood
+no livelihood
+everything
+everything
+all that i think it gets in the way
+all that i think it gets in the way
+but everyone can give everyone a flow
+but everyone can give everyone a flow
+so the way the way i have a structure
+so the way the way i have a structure
+i usually have a template uh with uh with a copy paste
+i usually have a template uh with uh with a copy paste
+and then i start going from there
+and then i start going from there
+it's an index h d m l
+it's an index h d m l
+it's got a main module that imports some functions
+it's got a main module that imports some functions
+that are already fine that give me a render a scene
+that are already fine that give me a render a scene
+and perspective camera
+and perspective camera
+i can register resize handlers
+i can register resize handlers
+i can register updates
+i can register updates
+load models environment maps in next year
+load models environment maps in next year
+i uh
+i uh
+some seen some that seems like a cube practice
+some seen some that seems like a cube practice
+and from there
+and from there
+uh
+uh
+you can start the coding
+you can start the coding
+so if you ever be like
+so if you ever be like
+where do you start
+where do you start
+what what they want once you get an idea
+what what they want once you get an idea
+so or if you don't have an idea
+so or if you don't have an idea
+so usually you would find something that it it's interesting
+so usually you would find something that it it's interesting
+uh that you wanna replicate or something that comes
+uh that you wanna replicate or something that comes
+to mind or somewhat paper or something
+to mind or somewhat paper or something
+but there's inspiration on on things like prompts
+but there's inspiration on on things like prompts
+so that here's where things like gold member or right
+so that here's where things like gold member or right
+now
+now
+january
+january
+come
+come
+it's uh for people that are not familiar with this
+it's uh for people that are not familiar with this
+during a month
+during a month
+there's a there's a challenge of getting something
+there's a there's a challenge of getting something
+daily based on on on one prompt per day one
+daily based on on on one prompt per day one
+one
+one
+one subject you can there's also november for blender
+one subject you can there's also november for blender
+but you can be orange dover
+but you can be orange dover
+which is for painting
+which is for painting
+but you can take it
+but you can take it
+you can take any of this or come up with your own
+you can take any of this or come up with your own
+um
+um
+there's also you can find inspirations on your social
+there's also you can find inspirations on your social
+media feeds like to your instagram uh
+media feeds like to your instagram uh
+i recommend following people that don't do what you
+i recommend following people that don't do what you
+usually do like illustration or game development
+usually do like illustration or game development
+something that is out of your your area
+something that is out of your your area
+um
+um
+that's like the same energy that give you move forward
+that's like the same energy that give you move forward
+there's interest uh
+there's interest uh
+there's uh you can even like rose n f t galleries
+there's uh you can even like rose n f t galleries
+there's something to be found
+there's something to be found
+in in that um for google images event like if you start
+in in that um for google images event like if you start
+searching for something
+searching for something
+um
+um
+you can find related images
+you can find related images
+you can find interesting takes on on on on concepts
+you can find interesting takes on on on on concepts
+mathematical concepts or things like that
+mathematical concepts or things like that
+so my approach startling
+so my approach startling
+just get there started doing something in that modules
+just get there started doing something in that modules
+and function as you need them uh because you're not
+and function as you need them uh because you're not
+trying to build again
+trying to build again
+mentioning you're not trying to build uh uh framework
+mentioning you're not trying to build uh uh framework
+ideally
+ideally
+so once you've got that team that
+so once you've got that team that
+that goal
+that goal
+just like go for it
+just like go for it
+build it
+build it
+uh
+uh
+feel free to like me under or drop it
+feel free to like me under or drop it
+you feel like you're wasting your time
+you feel like you're wasting your time
+something else will come
+something else will come
+maybe you find some hidden gold that you can explore
+maybe you find some hidden gold that you can explore
+that wasn't on what you initially intended to do it
+that wasn't on what you initially intended to do it
+it's so good
+it's so good
+it's so good
+it's so good
+that's why your expectations are set by error only
+that's why your expectations are set by error only
+for you to be set
+for you to be set
+so then
+so then
+as things that i've been over the years
+as things that i've been over the years
+building uh and are useful
+building uh and are useful
+so for instance
+so for instance
+i have uh functions for distribution of data
+i have uh functions for distribution of data
+for random noises
+for random noises
+there's uh uh your two d three d l dimensional uh noises
+there's uh uh your two d three d l dimensional uh noises
+they're spelling noise curl f b ms that you can use
+they're spelling noise curl f b ms that you can use
+it's it's a good thing to have a c p u and a g p u implementation
+it's it's a good thing to have a c p u and a g p u implementation
+so you can like switch quickly where you want to use
+so you can like switch quickly where you want to use
+them
+them
+uh was on this sampling
+uh was on this sampling
+it's useful to distribute things
+it's useful to distribute things
+our fibonacci spirals into the really all these are
+our fibonacci spirals into the really all these are
+the goods
+the goods
+placement of your initial structure that are not
+placement of your initial structure that are not
+just random uh in this case
+just random uh in this case
+for instance
+for instance
+this is basically instancing uh following uh one
+this is basically instancing uh following uh one
+of these people actually spiral on three d
+of these people actually spiral on three d
+and it uses uh a bunch of spears
+and it uses uh a bunch of spears
+and the color is worried about chances
+and the color is worried about chances
+so this could be like one of those shader toy plasmas
+so this could be like one of those shader toy plasmas
+it's just that it's happening in this kind of snake
+it's just that it's happening in this kind of snake
+it
+it
+so if geometries worried
+so if geometries worried
+what like you want to be exploring creatively
+what like you want to be exploring creatively
+there's many ways of doing
+there's many ways of doing
+you can get procedurally like just bumping triangles
+you can get procedurally like just bumping triangles
+and faces
+and faces
+you can use uh marching squares or marching cubes
+you can use uh marching squares or marching cubes
+to our country
+to our country
+uh
+uh
+whatever you want to implement uh on c p u or g p u um
+whatever you want to implement uh on c p u or g p u um
+you can use s d f signal distance
+you can use s d f signal distance
+fails to create your your your your structures
+fails to create your your your your structures
+and implicit functions
+and implicit functions
+this one, for instance, was about like, uh creating.
+this one, for instance, was about like, uh creating.
+these are functions that employees functions that
+these are functions that employees functions that
+are distorted through s d f and grandeur two objects
+are distorted through s d f and grandeur two objects
+we are marching cubes
+we are marching cubes
+that was the the whole thing
+that was the the whole thing
+just had some light
+just had some light
+some material
+some material
+and it looks nice
+and it looks nice
+um
+um
+if you want to go for shaving
+if you want to go for shaving
+for instance
+for instance
+um
+um
+there's no need to be accurate or physical
+there's no need to be accurate or physical
+there's b b r
+there's b b r
+it's it's nice
+it's it's nice
+you can use it
+you can use it
+but there's no there's no it's not necessarily there
+but there's no there's no it's not necessarily there
+and being creatively and a bit artsy
+and being creatively and a bit artsy
+you can do anything
+you can do anything
+have lambert go for the classic bones
+have lambert go for the classic bones
+blinds and anything you want
+blinds and anything you want
+makeup are really useful
+makeup are really useful
+are this kind of of of shades vertical maps that
+are this kind of of of shades vertical maps that
+that if you uh lightning lightning very cheaply uh
+that if you uh lightning lightning very cheaply uh
+you can use the f f x on your saving
+you can use the f f x on your saving
+you can use the property
+you can use the property
+i know i'm in a pollution
+i know i'm in a pollution
+anything that might be a bit complicated outside
+anything that might be a bit complicated outside
+of the a geometry
+of the a geometry
+you can use you can try to achieve non photorealistic
+you can use you can try to achieve non photorealistic
+rendering tune shaving sketch
+rendering tune shaving sketch
+you can be very creative in in this
+you can be very creative in in this
+once you get something that you want to render
+once you get something that you want to render
+then there's there's it's convenient to have several
+then there's there's it's convenient to have several
+render libraries functions
+render libraries functions
+so in this case
+so in this case
+for instance
+for instance
+uh
+uh
+particles or point out vendors are really useful
+particles or point out vendors are really useful
+even like us as as the value of what do you have
+even like us as as the value of what do you have
+uh or mesh lines which are like screen space projected
+uh or mesh lines which are like screen space projected
+lines
+lines
+so they're thicker they can be thicker than the regular
+so they're thicker they can be thicker than the regular
+uh web g l lines
+uh web g l lines
+or in this case
+or in this case
+there's a default lines were based on scattering
+there's a default lines were based on scattering
+the dots and accumulating or a few frames
+the dots and accumulating or a few frames
+so it gives this this kind of whisper
+so it gives this this kind of whisper
+smoking it.
+smoking it.
+effect uh
+effect uh
+a volume branded now that we have three textures and
+a volume branded now that we have three textures and
+flow textures in what you do
+flow textures in what you do
+and we can do uh
+and we can do uh
+uh
+uh
+a lot of stuff is also really
+a lot of stuff is also really
+really useful uh for debugging whatever you are doing
+really useful uh for debugging whatever you are doing
+or even for like building uh something as we as we see
+or even for like building uh something as we as we see
+which basically uh
+which basically uh
+um
+um
+something else is very much inside the queue for the
+something else is very much inside the queue for the
+sphere uh over a three detector or a sydney business
+sphere uh over a three detector or a sydney business
+building
+building
+post processing is a big thing that you can also do
+post processing is a big thing that you can also do
+there's there's so many things that you can do there
+there's there's so many things that you can do there
+and it's basically when you get to the end of your render
+and it's basically when you get to the end of your render
+and you feel like that
+and you feel like that
+it misses some punch
+it misses some punch
+uh
+uh
+it's it's it's convenient to like find something
+it's it's it's convenient to like find something
+like should i like
+like should i like
+boost the levels
+boost the levels
+could i like crunch the the whites and basically just
+could i like crunch the the whites and basically just
+go for the equivalent that you would might do in photoshop
+go for the equivalent that you would might do in photoshop
+look for the equation uh
+look for the equation uh
+which are usually online and just implemented and
+which are usually online and just implemented and
+added to your tool set one after the other boom composition
+added to your tool set one after the other boom composition
+coronavirus promoted operations as as you as you
+coronavirus promoted operations as as you as you
+find them
+find them
+maybe one thing is literally implemented
+maybe one thing is literally implemented
+the barrel distortion and or the shift
+the barrel distortion and or the shift
+and go with that.
+and go with that.
+so finally
+so finally
+some new deals
+some new deals
+uh
+uh
+things like physics for relaxation
+things like physics for relaxation
+for this reason
+for this reason
+things is also really useful
+things is also really useful
+uh
+uh
+uh
+uh
+you can you can smooth measures that you create out
+you can you can smooth measures that you create out
+of a matching cubes and things like that
+of a matching cubes and things like that
+you just keep finding things that you need and maybe
+you just keep finding things that you need and maybe
+find how to how to implement them
+find how to how to implement them
+um
+um
+this is basically a particle system branded with
+this is basically a particle system branded with
+instancing and the before the light and materials
+instancing and the before the light and materials
+from three j s shadow passes that you can use for for
+from three j s shadow passes that you can use for for
+generating
+generating
+like uh i provide the shader
+like uh i provide the shader
+can i get a frame buffer
+can i get a frame buffer
+that's it
+that's it
+it's like a shader that i can use uh to feed the maps
+it's like a shader that i can use uh to feed the maps
+of everything else uh on my pipeline shadow passes
+of everything else uh on my pipeline shadow passes
+for postperson or ping pong passes in case you want
+for postperson or ping pong passes in case you want
+to do some g p g p o
+to do some g p g p o
+and you need to like write in in the back and forth on
+and you need to like write in in the back and forth on
+the same method
+the same method
+which is not allowed
+which is not allowed
+so you go from one method to the other entry
+so you go from one method to the other entry
+um
+um
+so when for tools that i use
+so when for tools that i use
+i use the tool responsive mode in order to like
+i use the tool responsive mode in order to like
+take the resolution and handle what i want to see uh
+take the resolution and handle what i want to see uh
+i use my capture campus chrome extension to get the
+i use my capture campus chrome extension to get the
+uh snapshot and have a gigabyte and gigabyte top of
+uh snapshot and have a gigabyte and gigabyte top of
+steps of my what i do
+steps of my what i do
+i used to capture g s to capture frame by frame animations
+i used to capture g s to capture frame by frame animations
+and events like every now and then o b s for a quick output
+and events like every now and then o b s for a quick output
+so speaking of specific examples uh
+so speaking of specific examples uh
+this is uh the prompt for cold vendor was called attraction
+this is uh the prompt for cold vendor was called attraction
+and instead of you doing the classical coral noise
+and instead of you doing the classical coral noise
+i wanted to revisit something that you offer
+i wanted to revisit something that you offer
+let's go back.
+let's go back.
+i will go uh
+i will go uh
+something that didn't work uh back in day was was electrostatic
+something that didn't work uh back in day was was electrostatic
+the charge uh charge hills
+the charge uh charge hills
+so um
+so um
+since it's an end to end problem
+since it's an end to end problem
+it's a bit too expensive to calculate uh for the simulation
+it's a bit too expensive to calculate uh for the simulation
+so it's cashed in a three detector
+so it's cashed in a three detector
+and then it's pushed to the to the
+and then it's pushed to the to the
+to the shader and the charge that is moved in the mouse
+to the shader and the charge that is moved in the mouse
+that can be calculated in the shader because it's
+that can be calculated in the shader because it's
+one two m
+one two m
+which is uh affordable theme
+which is uh affordable theme
+can i stop this party uh
+can i stop this party uh
+so it's a g.b.gpu simulation with with particles
+so it's a g.b.gpu simulation with with particles
+that have a position in life and velocity and mass
+that have a position in life and velocity and mass
+and they just they're just like traced across these
+and they just they're just like traced across these
+fields
+fields
+and you can randomize
+and you can randomize
+and this that you're seeing is basically the accumulation
+and this that you're seeing is basically the accumulation
+of particles uh
+of particles uh
+there's a gradient that is randomly generated and
+there's a gradient that is randomly generated and
+pass the to the shader as a two detector
+pass the to the shader as a two detector
+so you get billionaire position out of box
+so you get billionaire position out of box
+and finally, some.
+and finally, some.
+blooming for like glow effect in this dramatic operation 
+blooming for like glow effect in this dramatic operation 
+uh
+uh
+another example is this stone
+another example is this stone
+the promote stone
+the promote stone
+so the the stone itself is generated uh with single
+so the the stone itself is generated uh with single
+distance fields and distortions
+distance fields and distortions
+and so this.
+and so this.
+um
+um
+there's borrowing noise to pay this concretely a
+there's borrowing noise to pay this concretely a
+surface uh f b m's commission of two separations and
+surface uh f b m's commission of two separations and
+it's calculated ones
+it's calculated ones
+and it's scratched in a in a texture uh
+and it's scratched in a in a texture uh
+so it can be it
+so it can be it
+it is more expensive to do every time
+it is more expensive to do every time
+and the process basically generates the the surface
+and the process basically generates the the surface
+password
+password
+has the math gap and the corporator and the ring lighting
+has the math gap and the corporator and the ring lighting
+and the normals and positions in order for the volume
+and the normals and positions in order for the volume
+render
+render
+just three march into a three d burning noise and get
+just three march into a three d burning noise and get
+these interior
+these interior
+which is like shimmering
+which is like shimmering
+and there's a final
+and there's a final
+pass that combines everything
+pass that combines everything
+and that's a bit of bloom and post and everything
+and that's a bit of bloom and post and everything
+so you can see like the the different
+so you can see like the the different
+effects of the mudguard
+effects of the mudguard
+there's there's like a frost factor
+there's there's like a frost factor
+which makes it less ah
+which makes it less ah
+blessing
+blessing
+uh
+uh
+and finally
+and finally
+from yesterday
+from yesterday
+there's the p r n g
+there's the p r n g
+which is uh
+which is uh
+it was about visualizing uh random all this work
+it was about visualizing uh random all this work
+right
+right
+okay
+okay
+um
+um
+this racing like random distribution of numbers
+this racing like random distribution of numbers
+so then message of instance messages are distributed
+so then message of instance messages are distributed
+with a poison
+with a poison
+this sampling over here
+this sampling over here
+relax the bit
+relax the bit
+so they don't overlap
+so they don't overlap
+the die model is a g l t f model and it's using multi render
+the die model is a g l t f model and it's using multi render
+target for these screening space of inoculation
+target for these screening space of inoculation
+which is really nice that we can do that in one
+which is really nice that we can do that in one
+zero
+zero
+two
+two
+uh
+uh
+it's using multi sample to render targets for the
+it's using multi sample to render targets for the
+color pass you get uh smooth image
+color pass you get uh smooth image
+and you don't need to use f x a a or any other processing
+and you don't need to use f x a a or any other processing
+um.
+um.
+and the combination is the um
+and the combination is the um
+the screen space
+the screen space
+similar question that's this uh nice um shadows and
+similar question that's this uh nice um shadows and
+and kind of global elimination
+and kind of global elimination
+plus the regular three g s shallows uh combine everything
+plus the regular three g s shallows uh combine everything
+into one final price of processing
+into one final price of processing
+um
+um
+so
+so
+yeah
+yeah
+that's that's me done despite on twitter uh this my
+that's that's me done despite on twitter uh this my
+github
+github
+there's a bunch of stuff like ninety percent of my
+there's a bunch of stuff like ninety percent of my
+code
+code
+is there a thing to release my website uh
+is there a thing to release my website uh
+and if you have any questions or any how to get started
+and if you have any questions or any how to get started
+or any help
+or any help
+ah
+ah
+just
+just
+don't hesitate to ask you. thank you.
+don't hesitate to ask you. thank you.
+thank you so much for your job for presenting your
+thank you so much for your job for presenting your
+your process
+your process
+your work is just amazing
+your work is just amazing
+you're an inspiration to all of
+you're an inspiration to all of
+thank you.
+thank you.
+so um.
+so um.
+uh.
+uh.
+well
+well
+to follow
+to follow
+to follow that amazing presentation
+to follow that amazing presentation
+and we have what i'm sure is gonna be another amazing
+and we have what i'm sure is gonna be another amazing
+one from donald vintage instrument play canvas uh
+one from donald vintage instrument play canvas uh
+talking about the latest rendering techniques
+talking about the latest rendering techniques
+so donovan
+so donovan
+thanks for presenting in advance
+thanks for presenting in advance
+and please take it away
+and please take it away
+thanks so much, kevin.
+thanks so much, kevin.
+um
+um
+hopefully
+hopefully
+you can uh
+you can uh
+you can all hear me
+you can all hear me
+ah
+ah
+so yeah
+so yeah
+my name is donovan
+my name is donovan
+and i'll be giving a quick update from the play campus
+and i'll be giving a quick update from the play campus
+for those of you who may not know
+for those of you who may not know
+uh
+uh
+take campus is a three d content creation platform
+take campus is a three d content creation platform
+for the web
+for the web
+which comprises a set of tools
+which comprises a set of tools
+we have a fully collaborative browser based editor
+we have a fully collaborative browser based editor
+an open source model viewer
+an open source model viewer
+a night based shader editor and
+a night based shader editor and
+and open source runtime and 
+and open source runtime and 
+um
+um
+not users are generally interested in creating games
+not users are generally interested in creating games
+vr content
+vr content
+visualizes and e commerce
+visualizes and e commerce
+and they want to run these across the broadest range
+and they want to run these across the broadest range
+of hardware possible uh
+of hardware possible uh
+so they wanted to run on desktop
+so they wanted to run on desktop
+mobile and the web g l one and two
+mobile and the web g l one and two
+and so over the last year
+and so over the last year
+we've continued to develop our engineering tools
+we've continued to develop our engineering tools
+in particular to address some of the demands of the
+in particular to address some of the demands of the
+company
+company
+uh
+uh
+we find that uh brands like cartier here
+we find that uh brands like cartier here
+you know they require photo realism in order to maximize
+you know they require photo realism in order to maximize
+the online sales conversions
+the online sales conversions
+and of course
+and of course
+they want their products to look amazing
+they want their products to look amazing
+but they also want their users to have the best possible
+but they also want their users to have the best possible
+experience
+experience
+so you know
+so you know
+this means that they they want fast
+this means that they they want fast
+low times and smooth rendering uh
+low times and smooth rendering uh
+and so today
+and so today
+i'll be getting over some of the improvements we've
+i'll be getting over some of the improvements we've
+made in the engine um to meet some of these demands
+made in the engine um to meet some of these demands
+so first up is clustered lighting
+so first up is clustered lighting
+well
+well
+what is that
+what is that
+it's a solution for rendering lots of dynamic lights
+it's a solution for rendering lots of dynamic lights
+in real time uh
+in real time uh
+it's often been combined with uh deferred shading
+it's often been combined with uh deferred shading
+uh and has been used uh to great effect on trouble
+uh and has been used uh to great effect on trouble
+a titles like doomed uh and many others
+a titles like doomed uh and many others
+the engine itself is the forward render where we generate
+the engine itself is the forward render where we generate
+shades of drawn time by combining together chunks
+shades of drawn time by combining together chunks
+of code
+of code
+and in our old lighting method
+and in our old lighting method
+lights would be baked into the shade of code directly
+lights would be baked into the shade of code directly
+meaning when when lights were added or removed from
+meaning when when lights were added or removed from
+the scene
+the scene
+changes needed to rebuild
+changes needed to rebuild
+and this approach
+and this approach
+while relatively straightforward
+while relatively straightforward
+did come with a bunch of limitations uh
+did come with a bunch of limitations uh
+it was slow to to render lots of lights in the scene
+it was slow to to render lots of lights in the scene
+because uh
+because uh
+you know
+you know
+all surfaces were evaluating all lights um
+all surfaces were evaluating all lights um
+we had unpredictable resource usage
+we had unpredictable resource usage
+sometimes running out of uniforms and samples
+sometimes running out of uniforms and samples
+um and in in game trade compilation was also a challenge
+um and in in game trade compilation was also a challenge
+for our users
+for our users
+ah
+ah
+so in order to address some of these limitations
+so in order to address some of these limitations
+uh
+uh
+we've been implementing trusted lighting um
+we've been implementing trusted lighting um
+so how does it work
+so how does it work
+well
+well
+there are basically uh three steps
+there are basically uh three steps
+uh in step one, given a set of lights.
+uh in step one, given a set of lights.
+we uh we constructed three d grid covering the lights
+we uh we constructed three d grid covering the lights
+uh in world space
+uh in world space
+and then on cpu for each for each cell on the grid
+and then on cpu for each for each cell on the grid
+we calculate the intersecting light
+we calculate the intersecting light
+and we store their indices mapped to some location
+and we store their indices mapped to some location
+on a two d texture
+on a two d texture
+and uh
+and uh
+this texture
+this texture
+we call the uh the trusted
+we call the uh the trusted
+uh
+uh
+then instead
+then instead
+two
+two
+we store the lighting parameters themselves
+we store the lighting parameters themselves
+that is
+that is
+uh the lights
+uh the lights
+position
+position
+rotation
+rotation
+color
+color
+etc
+etc
+and we encode the parameters into the light buffer
+and we encode the parameters into the light buffer
+which itself is just another two d text joint
+which itself is just another two d text joint
+and then finally
+and then finally
+in step three
+in step three
+we rendered the scene using the two generated textures
+we rendered the scene using the two generated textures
+uh and for each pixel from the fragments world space
+uh and for each pixel from the fragments world space
+position uh
+position uh
+we can get the the the cluster grid cell uh and loop
+we can get the the the cluster grid cell uh and loop
+over the the light indices
+over the the light indices
+we can read the parameters from the light buffer
+we can read the parameters from the light buffer
+and using these
+and using these
+we can calculate the lighting contribution um and
+we can calculate the lighting contribution um and
+next
+next
+we can actually take a look at this uh in action
+we can actually take a look at this uh in action
+so so yeah
+so so yeah
+here we have a scene with a single moving light
+here we have a scene with a single moving light
+we can overlay on top of that the cluster grid to see
+we can overlay on top of that the cluster grid to see
+its extensions
+its extensions
+you see it move along with the light.
+you see it move along with the light.
+we can also add more lights and see that the plastic
+we can also add more lights and see that the plastic
+grid is resized to encompass them all uh at the top
+grid is resized to encompass them all uh at the top
+left there
+left there
+you can see the light buffer being updated with new
+you can see the light buffer being updated with new
+lighting parameters
+lighting parameters
+um
+um
+the light positions are the ones twinkling
+the light positions are the ones twinkling
+them top left and bottom left
+them top left and bottom left
+you can see the cluster grid with a changing light
+you can see the cluster grid with a changing light
+industries
+industries
+um with clustered lighting
+um with clustered lighting
+though
+though
+the story doesn't end there uh shadow offers and cookies
+the story doesn't end there uh shadow offers and cookies
+are uh uh not able to be handled in the in in the usual
+are uh uh not able to be handled in the in in the usual
+manner because uh web yielders and support the summer
+manner because uh web yielders and support the summer
+uh rate indexing
+uh rate indexing
+so we also added dynamic texture edison uh
+so we also added dynamic texture edison uh
+which packs the shadow maps and the cookies into the
+which packs the shadow maps and the cookies into the
+texture at us at the front lights uh closer to the viewer
+texture at us at the front lights uh closer to the viewer
+will be assigned larger areas of the atlas and lights
+will be assigned larger areas of the atlas and lights
+further away small area
+further away small area
+um
+um
+the winds frost over the previous lighting method
+the winds frost over the previous lighting method
+are pretty substantial
+are pretty substantial
+we can now add lights to the scene of that performance
+we can now add lights to the scene of that performance
+issues
+issues
+we have predictable resource usage uh since all like
+we have predictable resource usage uh since all like
+data is encoded into these two textures instead of
+data is encoded into these two textures instead of
+what we had before
+what we had before
+where you know textures
+where you know textures
+um
+um
+sorry shares were using their varying numbers of
+sorry shares were using their varying numbers of
+uh uniforms and samples um
+uh uniforms and samples um
+and we now experience fewer shady comparison from
+and we now experience fewer shady comparison from
+time and looking to the future
+time and looking to the future
+uh
+uh
+we plan to migrate completely to the cluster solution
+we plan to migrate completely to the cluster solution
+uh
+uh
+we want to investigate cheap decal rendering using
+we want to investigate cheap decal rendering using
+a similar method to this uh and also uh investigate
+a similar method to this uh and also uh investigate
+some of volumetric writing solutions
+some of volumetric writing solutions
+so moving on
+so moving on
+we've also been working on our uh image based lighting
+we've also been working on our uh image based lighting
+uh
+uh
+our previous method required multiple rendering
+our previous method required multiple rendering
+parts based on the granton hardware uh
+parts based on the granton hardware uh
+if the device had no texture
+if the device had no texture
+other d support uh
+other d support uh
+which is a spiritual money can do for evolute uh map
+which is a spiritual money can do for evolute uh map
+otherwise
+otherwise
+if the device supported fewer than sixteen samples
+if the device supported fewer than sixteen samples
+uh
+uh
+we'd render using a single cube map with the roughness
+we'd render using a single cube map with the roughness
+uh stored in the makeup
+uh stored in the makeup
+otherwise uh with sample from six individual uh cute
+otherwise uh with sample from six individual uh cute
+maps
+maps
+each containing a reference level one
+each containing a reference level one
+and so
+and so
+of course
+of course
+the downsides of this approach
+the downsides of this approach
+again
+again
+we had varying resource usage um on the runtime
+we had varying resource usage um on the runtime
+depending on the runtime advice
+depending on the runtime advice
+um
+um
+the lighting of the different depending on the hardware
+the lighting of the different depending on the hardware
+support uh
+support uh
+and we had complex code pass to maintain seamless
+and we had complex code pass to maintain seamless
+edge filtering was difficult with mud maps as well
+edge filtering was difficult with mud maps as well
+so uh we implemented a new method
+so uh we implemented a new method
+which packs the lighting data onto us onto a uh a two
+which packs the lighting data onto us onto a uh a two
+detector at us uh instead
+detector at us uh instead
+so here's an example at least as you can see
+so here's an example at least as you can see
+uh
+uh
+we use a rectangular projection for that
+we use a rectangular projection for that
+down the left  we store the reference pyramid 
+down the left  we store the reference pyramid 
+uh
+uh
+down the right
+down the right
+we stole the usual environment magnet chain um
+we stole the usual environment magnet chain um
+and in the sense that we've also we also got the prefilled
+and in the sense that we've also we also got the prefilled
+today
+today
+when it comes to rendering surfaces with blurry reflections
+when it comes to rendering surfaces with blurry reflections
+we manually blend two levels of the blurry pyramid
+we manually blend two levels of the blurry pyramid
+based on surface roughness
+based on surface roughness
+on surfaces with sharp reflections
+on surfaces with sharp reflections
+we use an extra tap to sample the ah
+we use an extra tap to sample the ah
+the sharp map pyramid um
+the sharp map pyramid um
+but this time using uh texture derivatives
+but this time using uh texture derivatives
+what this means is that uh with three taps
+what this means is that uh with three taps
+we get very reflections and filtered sharp reflections
+we get very reflections and filtered sharp reflections
+um
+um
+the sharp reflections being most prone to
+the sharp reflections being most prone to
+so for example, ah, on this chess piece.
+so for example, ah, on this chess piece.
+with sharp refractions actually uh the image top
+with sharp refractions actually uh the image top
+uh top right uses one tap and below it
+uh top right uses one tap and below it
+uh and of course
+uh and of course
+under movement
+under movement
+the additional filtering helps to reduce twinkles
+the additional filtering helps to reduce twinkles
+uh
+uh
+we've also updated our pre filtering to be more in
+we've also updated our pre filtering to be more in
+line with the industry standards
+line with the industry standards
+so instead of fund
+so instead of fund
+we are using g g x uh
+we are using g g x uh
+we generate this uh using important sampling
+we generate this uh using important sampling
+which actually means we're approaching real time
+which actually means we're approaching real time
+speeds for generating pre filtered environments
+speeds for generating pre filtered environments
+uh
+uh
+i also want to give a quick shut up to the uh the excellent
+i also want to give a quick shut up to the uh the excellent
+chronos sample viewer source code um
+chronos sample viewer source code um
+it's been invaluable um a for us um implementing our
+it's been invaluable um a for us um implementing our
+own image based
+own image based
+uh
+uh
+so yeah
+so yeah
+in summary
+in summary
+we've updated our ideal rendering to have consistent
+we've updated our ideal rendering to have consistent
+resource usage and performance
+resource usage and performance
+and to look at the same across our yeah
+and to look at the same across our yeah
+multiple devices
+multiple devices
+we actually have a set of online examples demonstrating
+we actually have a set of online examples demonstrating
+you know
+you know
+these techniques and more
+these techniques and more
+there's a live coating panel on there
+there's a live coating panel on there
+and you can try it out yourself if you're interested
+and you can try it out yourself if you're interested
+uh with the address on screen
+uh with the address on screen
+please take a look
+please take a look
+um
+um
+the engine itself uh is also available on github under
+the engine itself uh is also available on github under
+mit license
+mit license
+um
+um
+and that's
+and that's
+that's all for me
+that's all for me
+i just like to send a shout out to uh to the autumn play
+i just like to send a shout out to uh to the autumn play
+campus team and especially martin
+campus team and especially martin
+who uh implemented the custom lighting we saw today
+who uh implemented the custom lighting we saw today
+uh
+uh
+also we're hiring
+also we're hiring
+so yeah
+so yeah
+please reach out
+please reach out
+if you
+if you
+thanks so much for listening.
+thanks so much for listening.
+thank you so much
+thank you so much
+donovan
+donovan
+for presenting uh your and the team's amazing work
+for presenting uh your and the team's amazing work
+here
+here
+uh
+uh
+i'm just i'm just blown away
+i'm just i'm just blown away
+i mean
+i mean
+you've done amazing work to get around hardware and
+you've done amazing work to get around hardware and
+specification limitations and just bring leading
+specification limitations and just bring leading
+edge lighting solutions to the engines of the web
+edge lighting solutions to the engines of the web
+so just fantastic
+so just fantastic
+okay
+okay
+so with that
+so with that
+let's go to the q and a uh and let me encourage everyone
+let's go to the q and a uh and let me encourage everyone
+here uh to please join the web
+here uh to please join the web
+g l and web g p online communities because i see some
+g l and web g p online communities because i see some
+really great questions here that could be answered
+really great questions here that could be answered
+uh on a faster cadence than once every three months
+uh on a faster cadence than once every three months
+which is roughly when we're holding these online
+which is roughly when we're holding these online
+beat ups
+beat ups
+and we'd love to
+and we'd love to
+you know
+you know
+get you the information that you need hear from you
+get you the information that you need hear from you
+more often
+more often
+so shall we uh go through the q and a.
+so shall we uh go through the q and a.
+i don't know if anybody from the chronoscope wants
+i don't know if anybody from the chronoscope wants
+to put on an interstitial slide
+to put on an interstitial slide
+and i'll i guess
+and i'll i guess
+turn on my video
+turn on my video
+hopes no host to stop the video
+hopes no host to stop the video
+that's fine
+that's fine
+okay
+okay
+so all of the presenters
+so all of the presenters
+please uh be ready to answer questions
+please uh be ready to answer questions
+let's go down them uh in chronological orders
+let's go down them uh in chronological orders
+so ron bush
+so ron bush
+nick asks
+nick asks
+will the browser be able to manipulate an important
+will the browser be able to manipulate an important
+export compressed textures like we can do today with
+export compressed textures like we can do today with
+images
+images
+would anyone like to pick
+would anyone like to pick
+sure, i can take it.
+sure, i can take it.
+um.
+um.
+we're not planning any functionality to compress
+we're not planning any functionality to compress
+these textures in the browser compression
+these textures in the browser compression
+i think somebody actually mentioned this in the chat
+i think somebody actually mentioned this in the chat
+but compression is generally a very expensive process
+but compression is generally a very expensive process
+that's done ahead of time in order to get optimal quality
+that's done ahead of time in order to get optimal quality
+um
+um
+we are considering at some point
+we are considering at some point
+potentially um adding sport to the browser for decoding
+potentially um adding sport to the browser for decoding
+these compressed images
+these compressed images
+but right now
+but right now
+we don't have anything planned yet
+we don't have anything planned yet
+so right now
+so right now
+you need to use ah
+you need to use ah
+use a library
+use a library
+in order to decompress.
+in order to decompress.
+uh
+uh
+you can press your textures and you can do that
+you can press your textures and you can do that
+you can do compression in the browser as well
+you can do compression in the browser as well
+with the weather
+with the weather
+some blue library
+some blue library
+but it's not very highly recommended because it won't
+but it's not very highly recommended because it won't
+perform well on
+perform well on
+especially in mobile devices
+especially in mobile devices
+yeah.
+yeah.
+so sounds great
+so sounds great
+thanks for the answer
+thanks for the answer
+kai
+kai
+and i'll mark that one is
+and i'll mark that one is
+as an answer.
+as an answer.
+okay
+okay
+uh
+uh
+going down uh
+going down uh
+an anonymous attendee says the recommendations
+an anonymous attendee says the recommendations
+published on the web g l two pages
+published on the web g l two pages
+yes
+yes
+i recommend that
+i recommend that
+but i was fifteen
+but i was fifteen
+adoption is only seventy two percent for devices
+adoption is only seventy two percent for devices
+from the last four years is dropping web gl relevance
+from the last four years is dropping web gl relevance
+in this case
+in this case
+so i'll um
+so i'll um
+i'll say it completely dropping webgl one support
+i'll say it completely dropping webgl one support
+is
+is
+of course
+of course
+an aspirational goal
+an aspirational goal
+and and i hope to get there
+and and i hope to get there
+you know
+you know
+in in my lifetime
+in in my lifetime
+um
+um
+but uh
+but uh
+just keep in mind that the ios adoption curve is is
+just keep in mind that the ios adoption curve is is
+quite steep
+quite steep
+and you know
+and you know
+in the in the limit
+in the in the limit
+um
+um
+it's quite good
+it's quite good
+uh
+uh
+you may know that like any any android ecosystem where
+you may know that like any any android ecosystem where
+there's a wide proliferation of devices
+there's a wide proliferation of devices
+um
+um
+you know
+you know
+getting to getting everyone's the latest operating
+getting to getting everyone's the latest operating
+system takes quite a long time
+system takes quite a long time
+but the ios ecosystem is difference
+but the ios ecosystem is difference
+and
+and
+um, i, i do expect that within.
+um, i, i do expect that within.
+you know
+you know
+a few more months that adoption will be even higher
+a few more months that adoption will be even higher
+than seventy two percent
+than seventy two percent
+so what i would like to encourage once again is get
+so what i would like to encourage once again is get
+your pages ready for web gl to you know
+your pages ready for web gl to you know
+do the upgrades
+do the upgrades
+um
+um
+you know
+you know
+taken to account the relatively minor spec differences
+taken to account the relatively minor spec differences
+between web jill two spec and the uh web jail one extensions
+between web jill two spec and the uh web jail one extensions
+for the same functionality and and get ready to deploy
+for the same functionality and and get ready to deploy
+it um and and put it out there
+it um and and put it out there
+and when web g o t is available
+and when web g o t is available
+you know
+you know
+go for it
+go for it
+and if you have any any metrics in your own app once
+and if you have any any metrics in your own app once
+you've gotten
+you've gotten
+you know to the adoption curve that you would like
+you know to the adoption curve that you would like
+to see
+to see
+you can just need to deprecate and remove the old curve
+you can just need to deprecate and remove the old curve
+path to simplify your your own app of your own engine
+path to simplify your your own app of your own engine
+so um
+so um
+please do uh have a night toward that
+please do uh have a night toward that
+that goal
+that goal
+and also
+and also
+please do try web g.p.u.web g p u
+please do try web g.p.u.web g p u
+we're aiming for really good market penetration
+we're aiming for really good market penetration
+of the a.p.i.um and uh
+of the a.p.i.um and uh
+and we would like you to get on the leading edge
+and we would like you to get on the leading edge
+get compute faders into your apps and start doing
+get compute faders into your apps and start doing
+it now
+it now
+can i add one thing to that really quick can please
+can i add one thing to that really quick can please
+please
+please
+which is with one g l two uh
+which is with one g l two uh
+one of the best things that you can do if you want to
+one of the best things that you can do if you want to
+get ready for web g.p.u.
+get ready for web g.p.u.
+but aren't quite ready to jump in and and start converting
+but aren't quite ready to jump in and and start converting
+large chunks of eco based over
+large chunks of eco based over
+he started taking advantage of some of the features
+he started taking advantage of some of the features
+that are available through web g.p.u.
+that are available through web g.p.u.
+especially uh uniform buffer objects because that
+especially uh uniform buffer objects because that
+will prepare the structure of your code much better
+will prepare the structure of your code much better
+to switch over to the structure that is required by
+to switch over to the structure that is required by
+web gpu
+web gpu
+so highly
+so highly
+great advice
+great advice
+uh
+uh
+yeah
+yeah
+getting off the uh
+getting off the uh
+you know
+you know
+jail uniform three f v calls and instead packing your
+jail uniform three f v calls and instead packing your
+data into uniform buffers is a a great first step
+data into uniform buffers is a a great first step
+okay
+okay
+let's see here
+let's see here
+uh ashley golden
+uh ashley golden
+high ash uh asks if we want to download pink and j pick
+high ash uh asks if we want to download pink and j pick
+for the smaller file size and then load in a compressed
+for the smaller file size and then load in a compressed
+texture
+texture
+what's the suggested way
+what's the suggested way
+i would like to refuse the suggestion that jpegs and
+i would like to refuse the suggestion that jpegs and
+p.and g's are going to be smaller than the compressed
+p.and g's are going to be smaller than the compressed
+texture
+texture
+um
+um
+if you are just taking like a raw g x t file or something
+if you are just taking like a raw g x t file or something
+like that
+like that
+yeah
+yeah
+it will probably come out bigger than the jpeg
+it will probably come out bigger than the jpeg
+but if you're using one of the newer super competitive
+but if you're using one of the newer super competitive
+texture formats like basis universal in a t x two wrapper
+texture formats like basis universal in a t x two wrapper
+or something like that
+or something like that
+ah
+ah
+i find that they frequently match or are better than
+i find that they frequently match or are better than
+the j type file sizes and then transcode into something
+the j type file sizes and then transcode into something
+of course
+of course
+is smaller on the g p u as well
+is smaller on the g p u as well
+so um
+so um
+there's again
+there's again
+there's we'd really love people to start fully embracing
+there's we'd really love people to start fully embracing
+uh compressed textures all the way through the pipeline
+uh compressed textures all the way through the pipeline
+and that includes over the wire because it can be equivalent
+and that includes over the wire because it can be equivalent
+or smaller to the assets that you're delivering
+or smaller to the assets that you're delivering
+okay, super.
+okay, super.
+uh
+uh
+i would have said the same thing
+i would have said the same thing
+uh
+uh
+good
+good
+good heads are brand
+good heads are brand
+okay
+okay
+let's see
+let's see
+alex short tasks i've experienced a lot of issues
+alex short tasks i've experienced a lot of issues
+using drako compression that ios has party about
+using drako compression that ios has party about
+a year ago that scared me off from draycott
+a year ago that scared me off from draycott
+so any truth to this concern was likely an implementation
+so any truth to this concern was likely an implementation
+area
+area
+so um
+so um
+first of all
+first of all
+it's it was almost fully above
+it's it was almost fully above
+um
+um
+you know
+you know
+the secretary
+the secretary
+ah
+ah
+itself made it it does things like quantized vertices
+itself made it it does things like quantized vertices
+and uses maybe
+and uses maybe
+maybe slightly strange um vertex formats 
+maybe slightly strange um vertex formats 
+it'll reorganize or draw calls for efficiency
+it'll reorganize or draw calls for efficiency
+batch them
+batch them
+but i mean
+but i mean
+underlying
+underlying
+it's using the same drawing primitives like drawing
+it's using the same drawing primitives like drawing
+and it's drawing rays that you would be using in your
+and it's drawing rays that you would be using in your
+in your engine anyway
+in your engine anyway
+so i would like to suggest
+so i would like to suggest
+first of all
+first of all
+the implementation in on ios is uh is different now
+the implementation in on ios is uh is different now
+than it was a year ago
+than it was a year ago
+so please try the new uh ios fifth sort of the new safari
+so please try the new uh ios fifth sort of the new safari
+fifteen and ios
+fifteen and ios
+um
+um
+second
+second
+if you do see any weird issues in your models getting
+if you do see any weird issues in your models getting
+corrupted
+corrupted
+please produce a test case and file a bug
+please produce a test case and file a bug
+i mean
+i mean
+even if it like
+even if it like
+renders correct me on desktop and renders incorrectly
+renders correct me on desktop and renders incorrectly
+on mobile
+on mobile
+i'm sure that we can debug it from that
+i'm sure that we can debug it from that
+or even if it's just you could just get the wrong examples
+or even if it's just you could just get the wrong examples
+wrong rendering
+wrong rendering
+please fix
+please fix
+we'll we'll take a look
+we'll we'll take a look
+please try again
+please try again
+please do report the issues that you see
+please do report the issues that you see
+file bugs
+file bugs
+email the webgl depth
+email the webgl depth
+let's just get a test case out there
+let's just get a test case out there
+we'll figure out what's going wrong
+we'll figure out what's going wrong
+can we want to make this kind of content work and make
+can we want to make this kind of content work and make
+your models
+your models
+okay
+okay
+let's see uh the next one
+let's see uh the next one
+anonymous attendee asks
+anonymous attendee asks
+is using blog to load textures also recommended for
+is using blog to load textures also recommended for
+web g
+web g
+uh, yes.
+uh, yes.
+um
+um
+basically
+basically
+it is the most optimal way to get it something into
+it is the most optimal way to get it something into
+an image bit map
+an image bit map
+and you can use image bit maps
+and you can use image bit maps
+load web g l
+load web g l
+they're uh more optimal than going straight from
+they're uh more optimal than going straight from
+an image element
+an image element
+and so yes
+and so yes
+that that same code path that i presented ah works
+that that same code path that i presented ah works
+equally well for webgl and web gpu
+equally well for webgl and web gpu
+you just swap out what the texture function is at the
+you just swap out what the texture function is at the
+end of
+end of
+yeah, i want to also add that um.
+yeah, i want to also add that um.
+you can use image remaps on workers.
+you can use image remaps on workers.
+html image element is not available on workers because
+html image element is not available on workers because
+it's part of the dom
+it's part of the dom
+um
+um
+so if you're if you want to be able to move code to a worker
+so if you're if you want to be able to move code to a worker
+then using image bit map through a blob is highly recommended
+then using image bit map through a blob is highly recommended
+sorry, great answers, everybody.
+sorry, great answers, everybody.
+okay
+okay
+let's see
+let's see
+marco figaro asks the web g l d bug tools are really
+marco figaro asks the web g l d bug tools are really
+cool
+cool
+that's right
+that's right
+the web g p u d bug tools are really cool
+the web g p u d bug tools are really cool
+our depth tools for profiling
+our depth tools for profiling
+wiggle shaders planned i've always wanted an easier
+wiggle shaders planned i've always wanted an easier
+way to find a bottlenecks
+way to find a bottlenecks
+um
+um
+yes
+yes
+this is an excellent question
+this is an excellent question
+we do not have a
+we do not have a
+actively have plans to work on this yet
+actively have plans to work on this yet
+but we have dreams um
+but we have dreams um
+one way of potentially doing this is to use native
+one way of potentially doing this is to use native
+platform debugging tools
+platform debugging tools
+we haven't worked like we don't have a lot of experience
+we haven't worked like we don't have a lot of experience
+with this
+with this
+but some some native uh some native graphics debugging
+but some some native uh some native graphics debugging
+tools can be attached to the web browser to a web browser
+tools can be attached to the web browser to a web browser
+to debug what's going on inside of the web page
+to debug what's going on inside of the web page
+so for example
+so for example
+x code or uh or microsoft's picks debugger
+x code or uh or microsoft's picks debugger
+i don't know which of these configurations work
+i don't know which of these configurations work
+i don't know exactly how to get them set up
+i don't know exactly how to get them set up
+but people have had success with them
+but people have had success with them
+um
+um
+the native debug tools generally are going to give
+the native debug tools generally are going to give
+you a richer debugging experience because they can
+you a richer debugging experience because they can
+hook directly into the uh into like vendor specific
+hook directly into the uh into like vendor specific
+debugging functionality uh that we wouldn't be able
+debugging functionality uh that we wouldn't be able
+to use in the browser um
+to use in the browser um
+but we do have ideas about
+but we do have ideas about
+for example
+for example
+running shaders uh in software using using our software
+running shaders uh in software using using our software
+render and and allowing debugging through that
+render and and allowing debugging through that
+but we have no plans yet to do anything like that
+but we have no plans yet to do anything like that
+it's sort of an open research project
+it's sort of an open research project
+yeah
+yeah
+this is a great topic
+this is a great topic
+i would definitely encourage you to post this to the
+i would definitely encourage you to post this to the
+uh the web g p u community group and and ask because
+uh the web g p u community group and and ask because
+you know every browser is gonna need to handle this
+you know every browser is gonna need to handle this
+a little bit differently
+a little bit differently
+uh
+uh
+i think it's probably like an intractable problem
+i think it's probably like an intractable problem
+for the browsers to subsume the functionality of
+for the browsers to subsume the functionality of
+these native profilings rules
+these native profilings rules
+so infrastructure
+so infrastructure
+i think is the direction we want to take um
+i think is the direction we want to take um
+and you know
+and you know
+using the best to breed
+using the best to breed
+native profilers that are out there
+native profilers that are out there
+uh
+uh
+we we want to enable that better on the web for web g.p.u.uh
+we we want to enable that better on the web for web g.p.u.uh
+than than we did in the web gl ecosystem
+than than we did in the web gl ecosystem
+okay
+okay
+going on the yangtze asks
+going on the yangtze asks
+is there a recommended format for float textures
+is there a recommended format for float textures
+and web g o two and web g p u um young also later was asking
+and web g o two and web g p u um young also later was asking
+uh
+uh
+i don't see the question anymore
+i don't see the question anymore
+but i think he's basically asking whether there's
+but i think he's basically asking whether there's
+a recommended file format for importing these
+a recommended file format for importing these
+so a couple of points here
+so a couple of points here
+i'll make the point about the
+i'll make the point about the
+the actual internal format for these uh
+the actual internal format for these uh
+we actually invested quite a bit of time during the
+we actually invested quite a bit of time during the
+development of web g o two for safari and re specifying
+development of web g o two for safari and re specifying
+uh floating point texture and durability
+uh floating point texture and durability
+so the universally available format is half float
+so the universally available format is half float
+our red r sixteen f r g sixteen f and r g b a sixteen f that's
+our red r sixteen f r g sixteen f and r g b a sixteen f that's
+the format you should target
+the format you should target
+if it has the precision in the range that is suitable
+if it has the precision in the range that is suitable
+for your application
+for your application
+it's basically available as a renderable format
+it's basically available as a renderable format
+everywhere
+everywhere
+so you can you know
+so you can you know
+sample from it
+sample from it
+you can render to it ping pong back and forth
+you can render to it ping pong back and forth
+this is how you can do uh g p g p u and other um techniques
+this is how you can do uh g p g p u and other um techniques
+that require floating point data in web g l two and
+that require floating point data in web g l two and
+get them working
+get them working
+for example on a i o s
+for example on a i o s
+where only floating point sixteen textures are renderable
+where only floating point sixteen textures are renderable
+thirty two bit textures are not renderable
+thirty two bit textures are not renderable
+so that's uh what i would say about the runtime format
+so that's uh what i would say about the runtime format
+now in terms of bringing in
+now in terms of bringing in
+for example
+for example
+h d r textures um into flow texture
+h d r textures um into flow texture
+you know from files into flow textures
+you know from files into flow textures
+i'd like to ask the other panelists for opinions on
+i'd like to ask the other panelists for opinions on
+um, yeah, so.
+um, yeah, so.
+this is something that's high bit depth images is
+this is something that's high bit depth images is
+something that's sort of been on our radar for a while
+something that's sort of been on our radar for a while
+so for example
+so for example
+sixteen bit p n g um doesn't have much browser support
+sixteen bit p n g um doesn't have much browser support
+uh right now
+uh right now
+i think if you want to say bring in a sixteen bit p n g
+i think if you want to say bring in a sixteen bit p n g
+uh into application
+uh into application
+you probably need to use the software decoder like
+you probably need to use the software decoder like
+what assembly of p n g decoder
+what assembly of p n g decoder
+which is unfortunate um or you can compress your image
+which is unfortunate um or you can compress your image
+data in some other way
+data in some other way
+so that you get it as a linear buffer and upload that
+so that you get it as a linear buffer and upload that
+directly as raw data and
+directly as raw data and
+um.
+um.
+we it's on our radar to have some browser support for
+we it's on our radar to have some browser support for
+this
+this
+so both um
+so both um
+both web gpu and webgl have considered sixteen bit
+both web gpu and webgl have considered sixteen bit
+input um
+input um
+but there's the
+but there's the
+webgl extension is still under draft
+webgl extension is still under draft
+and i don't know um
+and i don't know um
+if i i don't
+if i i don't
+i don't think there's active development development
+i don't think there's active development development
+on it right now
+on it right now
+web g p u is planning on doing this later
+web g p u is planning on doing this later
+sometimes after one point oh
+sometimes after one point oh
+because it it's not necessary
+because it it's not necessary
+it's not required for future priority
+it's not required for future priority
+but basically um
+but basically um
+but it's something we would like to do
+but it's something we would like to do
+so it's an issue that we have tracked for high bit depth
+so it's an issue that we have tracked for high bit depth
+and but um
+and but um
+but it's not not figured out
+but it's not not figured out
+i don't know if
+i don't know if
+say like basis
+say like basis
+for example
+for example
+basis universal
+basis universal
+for example
+for example
+has a support for high bit depth
+has a support for high bit depth
+i don't think it does
+i don't think it does
+but there might be
+but there might be
+there might be some higher bit depth support in the
+there might be some higher bit depth support in the
+in the hdr profiles
+in the hdr profiles
+i just don't remember if it has support for hdr profiles
+i just don't remember if it has support for hdr profiles
+of a s t c
+of a s t c
+um
+um
+and we don't support the hdr profiles of a of a s g c
+and we don't support the hdr profiles of a of a s g c
+i believe
+i believe
+at least not in web gpu
+at least not in web gpu
+right now.
+right now.
+so you would have to software decode this.
+so you would have to software decode this.
+yeah
+yeah
+so at that point
+so at that point
+i mean
+i mean
+i think you could use uh r g b e
+i think you could use uh r g b e
+you know
+you know
+r g b plus exponents or go to the full blown open e x r
+r g b plus exponents or go to the full blown open e x r
+and software decode that, i mean.
+and software decode that, i mean.
+these are gonna be larger files for sure uh both over
+these are gonna be larger files for sure uh both over
+the wire and in memory representation
+the wire and in memory representation
+but um
+but um
+i mean
+i mean
+if you need it
+if you need it
+you know you can get the full precision range that
+you know you can get the full precision range that
+you need
+you need
+anyway
+anyway
+thanks for the great question
+thanks for the great question
+i will say that we answered this live and again
+i will say that we answered this live and again
+please feel free to reach out to the uh the online discussion
+please feel free to reach out to the uh the online discussion
+groups of bad questions like this
+groups of bad questions like this
+we'd love to help answer them um
+we'd love to help answer them um
+and i i bet you that alexey kenya is from the uh k t x working
+and i i bet you that alexey kenya is from the uh k t x working
+group that chronos would love to talk about basis
+group that chronos would love to talk about basis
+universal and
+universal and
+okay.
+okay.
+a large bond asks
+a large bond asks
+what is the state of using web g p u through and script
+what is the state of using web g p u through and script
+and using c n c plus plus
+and using c n c plus plus
+can we use the regular vulcan c a p i here
+can we use the regular vulcan c a p i here
+um
+um
+unfortunately not uh
+unfortunately not uh
+so we we have a uh sea header for web g p u
+so we we have a uh sea header for web g p u
+which um is not fully fleshed out yet
+which um is not fully fleshed out yet
+but it's a shared header between our uh google implementation
+but it's a shared header between our uh google implementation
+missiles implementation um
+missiles implementation um
+ultimately
+ultimately
+they will be interoperable
+they will be interoperable
+so you'll be able to swap out the shared library underneath
+so you'll be able to swap out the shared library underneath
+the header
+the header
+um
+um
+that is a c a p i uh
+that is a c a p i uh
+and we have c plus plus findings on top of that uh
+and we have c plus plus findings on top of that uh
+that header is also available in an inscription
+that header is also available in an inscription
+so right now
+so right now
+the header implemented in the script and should be
+the header implemented in the script and should be
+compatible with the header implemented in dawn
+compatible with the header implemented in dawn
+mostly um and mostly compatible with with with what's
+mostly um and mostly compatible with with with what's
+implemented in w g p u as well
+implemented in w g p u as well
+um
+um
+there is no implementation of the vulcan c a p i on top
+there is no implementation of the vulcan c a p i on top
+of web gpu
+of web gpu
+as far as i'm aware
+as far as i'm aware
+this is a project that i think would benefit the community
+this is a project that i think would benefit the community
+and a lot of people would like to have um
+and a lot of people would like to have um
+but unfortunately
+but unfortunately
+i'm not aware of anybody who's actually started developing
+i'm not aware of anybody who's actually started developing
+someday i think someone will.
+someday i think someone will.
+good stuff
+good stuff
+guy
+guy
+thanks
+thanks
+and what's my favorite one
+and what's my favorite one
+okay
+okay
+next question
+next question
+uh georgia
+uh georgia
+nicholas asks brendan what would be a good way to reuse
+nicholas asks brendan what would be a good way to reuse
+the rendering pipelines from mesh with the same buffer
+the rendering pipelines from mesh with the same buffer
+inputs
+inputs
+and characteristically
+and characteristically
+the output render target topology
+the output render target topology
+he wants to keep a pool of created pipelines and find
+he wants to keep a pool of created pipelines and find
+one
+one
+you know
+you know
+looking it up
+looking it up
+if it matches
+if it matches
+the new input doesn't wanna manage uids manually
+the new input doesn't wanna manage uids manually
+just what's the group and based on inputs states
+just what's the group and based on inputs states
+okay
+okay
+so first
+so first
+i need to send personal apologies to geology because
+i need to send personal apologies to geology because
+i have had this question in my personal inbox for months
+i have had this question in my personal inbox for months
+now
+now
+and a half type reply because it's it's a complex question
+and a half type reply because it's it's a complex question
+and i apologize for not getting back to you on that
+and i apologize for not getting back to you on that
+thank you for bringing it up here
+thank you for bringing it up here
+this is actually a topic that i wanted to cover in my
+this is actually a topic that i wanted to cover in my
+slides today
+slides today
+but it turns out that i just could not do it justice
+but it turns out that i just could not do it justice
+in the time that we had um
+in the time that we had um
+unless i want to make my entire presentation about
+unless i want to make my entire presentation about
+that
+that
+but it
+but it
+topic that i think a lot of people will run into
+topic that i think a lot of people will run into
+and so i'm going to be taking the half type response
+and so i'm going to be taking the half type response
+to you and turning it into a community asset um that
+to you and turning it into a community asset um that
+i post along some of the other best practices that
+i post along some of the other best practices that
+i've done
+i've done
+uh
+uh
+one tip that i can give you until i'm able to look at
+one tip that i can give you until i'm able to look at
+that is
+that is
+i do a lot of work towards this in the demos that i posted
+i do a lot of work towards this in the demos that i posted
+today
+today
+uh
+uh
+especially like in bookie ball
+especially like in bookie ball
+there's a lot of work that goes into minimizing the
+there's a lot of work that goes into minimizing the
+number of pipelines that are created
+number of pipelines that are created
+so you can go spoiling through that code to get some
+so you can go spoiling through that code to get some
+ideas uh
+ideas uh
+and then in the meantime
+and then in the meantime
+i will be working on some assets to help other people
+i will be working on some assets to help other people
+in the community
+in the community
+uh
+uh
+figure this out as well because it's probably going
+figure this out as well because it's probably going
+to be one of the primary challenges for new developers
+to be one of the primary challenges for new developers
+starting up with web g p u and wanting to get some better
+starting up with web g p u and wanting to get some better
+performance out of it
+performance out of it
+okay, great stuff.
+okay, great stuff.
+georgia also asks
+georgia also asks
+are there any other any plans on supporting pre processors
+are there any other any plans on supporting pre processors
+and pixel
+and pixel
+to my knowledge
+to my knowledge
+no
+no
+i do once again in my code
+i do once again in my code
+have a little snippet of something that handles some
+have a little snippet of something that handles some
+pre processors
+pre processors
+uh
+uh
+i know the kinds development as well
+i know the kinds development as well
+i've seen a few other sprinkled around in the community
+i've seen a few other sprinkled around in the community
+so there are
+so there are
+ways to do this that are relatively low
+ways to do this that are relatively low
+impact
+impact
+the code for them is usually not very big
+the code for them is usually not very big
+but i don't think that we're planning on having a canonical
+but i don't think that we're planning on having a canonical
+preprocessor um system in wiggle
+preprocessor um system in wiggle
+yeah
+yeah
+that's right
+that's right
+right now
+right now
+we're not we're not planning to include a preprocessor
+we're not we're not planning to include a preprocessor
+in wiggle
+in wiggle
+um
+um
+i do recommend that you use things like template macros
+i do recommend that you use things like template macros
+uh or template strings in javascript um or other templating
+uh or template strings in javascript um or other templating
+engines or whatever uh
+engines or whatever uh
+whatever you find useful
+whatever you find useful
+yeah
+yeah
+you know
+you know
+in order to add post processing on top of wiggle on
+in order to add post processing on top of wiggle on
+top of wiggle um
+top of wiggle um
+i'm sure that there will be lots of projects over time
+i'm sure that there will be lots of projects over time
+for implementing some some some form of preprocessor
+for implementing some some some form of preprocessor
+on top of wiggle
+on top of wiggle
+so keep an eye out.
+so keep an eye out.
+yeah
+yeah
+i i will say that if you just use javascript built in
+i i will say that if you just use javascript built in
+uh template literals
+uh template literals
+that gets you most of the way there
+that gets you most of the way there
+it doesn't handle things like if deaths
+it doesn't handle things like if deaths
+but um
+but um
+in terms of just like wanting to replace a particular
+in terms of just like wanting to replace a particular
+symbol with a value
+symbol with a value
+you can do most of that with javascript today with
+you can do most of that with javascript today with
+with no additional libraries needed
+with no additional libraries needed
+and and a lot of us code in the wizard innovation 
+and and a lot of us code in the wizard innovation 
+and stuff
+and stuff
+believe it or not
+believe it or not
+we are starting to run low on time
+we are starting to run low on time
+so let's try to maybe hit some of the top questions
+so let's try to maybe hit some of the top questions
+here
+here
+um
+um
+alexander
+alexander
+i'm gonna defer your question
+i'm gonna defer your question
+i'm afraid i don't quite understand what you mean
+i'm afraid i don't quite understand what you mean
+by web g p compression
+by web g p compression
+i i think that uh the the general answer to this is
+i i think that uh the the general answer to this is
+yes
+yes
+any of the compression methods that we're using for
+any of the compression methods that we're using for
+the i.osha and program g.p.u.also by y g l
+the i.osha and program g.p.u.also by y g l
+okay, good stuff, great answer.
+okay, good stuff, great answer.
+okay
+okay
+uh
+uh
+stephen
+stephen
+off the doll asks any word community three d and when
+off the doll asks any word community three d and when
+they'll start looking into a web gpu implementation
+they'll start looking into a web gpu implementation
+and
+and
+uh.
+uh.
+we we have great partnerships with the unity folks
+we we have great partnerships with the unity folks
+uh and have been discussing this with them for a long
+uh and have been discussing this with them for a long
+time
+time
+we can't pronounce anything on their behalf
+we can't pronounce anything on their behalf
+but stay tuned
+but stay tuned
+okay
+okay
+uh
+uh
+let's see andy ray is asking about a job
+let's see andy ray is asking about a job
+he's written a job for jail as a compiler and seeing
+he's written a job for jail as a compiler and seeing
+the greater place for web g.p.u.
+the greater place for web g.p.u.
+he's suspected to be obsolete for j s users
+he's suspected to be obsolete for j s users
+have a p i access to browser with g p g p compilers in
+have a p i access to browser with g p g p compilers in
+the produced a s t s
+the produced a s t s
+uh
+uh
+so i'm just gonna venture and say
+so i'm just gonna venture and say
+no
+no
+we won't be supporting uh abstract syntax trees
+we won't be supporting uh abstract syntax trees
+you know
+you know
+api's for the shaders
+api's for the shaders
+um.
+um.
+on the other hand
+on the other hand
+wiggle
+wiggle
+i would like to say is a uh
+i would like to say is a uh
+it's a clean cut language 
+it's a clean cut language 
+that was
+that was
+you know
+you know
+based on spear v
+based on spear v
+primitives at the bottom
+primitives at the bottom
+so it should be more easily ah possible a bit more regular
+so it should be more easily ah possible a bit more regular
+perhaps than some of the legacy glsl constructs
+perhaps than some of the legacy glsl constructs
+and hopefully easier to work with
+and hopefully easier to work with
+and we definitely want to have bridges back to the
+and we definitely want to have bridges back to the
+glsl ecosystem in in many ways
+glsl ecosystem in in many ways
+and i suspect anti that your uh previous compiler
+and i suspect anti that your uh previous compiler
+will actually have a new legs given the new filter
+will actually have a new legs given the new filter
+ecosystem
+ecosystem
+the ability to maybe output wigs left the bottom level
+the ability to maybe output wigs left the bottom level
+any other feedback.
+any other feedback.
+okay.
+okay.
+what's called i've done.
+what's called i've done.
+uh
+uh
+let's see
+let's see
+uh
+uh
+one tabao asks our three detector is going to be supported
+one tabao asks our three detector is going to be supported
+on what g p l g l two
+on what g p l g l two
+yeah.
+yeah.
+they work, they they work today in both of them.
+they work, they they work today in both of them.
+yes, okay.
+yes, okay.
+let's see
+let's see
+uh
+uh
+lens and humphreys asks
+lens and humphreys asks
+has there been any planner discussion of web gpu implement
+has there been any planner discussion of web gpu implement
+explicit multi-gpu like there is in vulcan and direct
+explicit multi-gpu like there is in vulcan and direct
+x twelve
+x twelve
